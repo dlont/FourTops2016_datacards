@@ -1,0 +1,32 @@
+{
+	"stack":[
+		["shapes_fit_s/MU_mu8J2M/ttbarTTX", "shapes_fit_s/MU_mu8J2M/ST_tW", "shapes_fit_s/MU_mu8J2M/EW", "shapes_fit_s/MU_mu8J2M/Rare1TTH", "shapes_fit_s/MU_mu8J2M/Rare1TTW", "shapes_fit_s/MU_mu8J2M/Rare1TTZ", "shapes_fit_s/MU_mu8J2M/TTRARE_plus" ],
+		["shapes_fit_s/MU_mu8J3M/ttbarTTX", "shapes_fit_s/MU_mu8J3M/ST_tW", "shapes_fit_s/MU_mu8J3M/EW", "shapes_fit_s/MU_mu8J3M/Rare1TTH", "shapes_fit_s/MU_mu8J3M/Rare1TTW", "shapes_fit_s/MU_mu8J3M/Rare1TTZ", "shapes_fit_s/MU_mu8J3M/TTRARE_plus" ],
+		["shapes_fit_s/MU_mu8J4M/ttbarTTX", "shapes_fit_s/MU_mu8J4M/ST_tW", "shapes_fit_s/MU_mu8J4M/EW", "shapes_fit_s/MU_mu8J4M/Rare1TTH", "shapes_fit_s/MU_mu8J4M/Rare1TTW", "shapes_fit_s/MU_mu8J4M/Rare1TTZ", "shapes_fit_s/MU_mu8J4M/TTRARE_plus" ]
+	],
+        "prefit_TTRARE_plus":["shapes_prefit/MU_mu8J2M/TTRARE_plus","shapes_prefit/MU_mu8J3M/TTRARE_plus","shapes_prefit/MU_mu8J4M/TTRARE_plus"],
+	"prefit_Rare1TTH":["shapes_prefit/MU_mu8J2M/Rare1TTH","shapes_prefit/MU_mu8J3M/Rare1TTH","shapes_prefit/MU_mu8J4M/Rare1TTH"],
+	"prefit_Rare1TTW":["shapes_prefit/MU_mu8J2M/Rare1TTW","shapes_prefit/MU_mu8J3M/Rare1TTW","shapes_prefit/MU_mu8J4M/Rare1TTW"],
+	"prefit_Rare1TTZ":["shapes_prefit/MU_mu8J2M/Rare1TTZ","shapes_prefit/MU_mu8J3M/Rare1TTZ","shapes_prefit/MU_mu8J4M/Rare1TTZ"],
+        "fits_TTRARE_plus":["shapes_fit_s/MU_mu8J2M/TTRARE_plus","shapes_fit_s/MU_mu8J3M/TTRARE_plus","shapes_fit_s/MU_mu8J4M/TTRARE_plus"],
+	"fits_Rare1TTH":["shapes_fit_s/MU_mu8J2M/Rare1TTH","shapes_fit_s/MU_mu8J3M/Rare1TTH","shapes_fit_s/MU_mu8J4M/Rare1TTH"],
+	"fits_Rare1TTW":["shapes_fit_s/MU_mu8J2M/Rare1TTW","shapes_fit_s/MU_mu8J3M/Rare1TTW","shapes_fit_s/MU_mu8J4M/Rare1TTW"],
+	"fits_Rare1TTZ":["shapes_fit_s/MU_mu8J2M/Rare1TTZ","shapes_fit_s/MU_mu8J3M/Rare1TTZ","shapes_fit_s/MU_mu8J4M/Rare1TTZ"],
+        "fitb_TTRARE_plus":["shapes_fit_b/MU_mu8J2M/TTRARE_plus","shapes_fit_b/MU_mu8J3M/TTRARE_plus","shapes_fit_b/MU_mu8J4M/TTRARE_plus"],
+	"fitb_Rare1TTH":["shapes_fit_b/MU_mu8J2M/Rare1TTH","shapes_fit_b/MU_mu8J3M/Rare1TTH","shapes_fit_b/MU_mu8J4M/Rare1TTH"],
+	"fitb_Rare1TTW":["shapes_fit_b/MU_mu8J2M/Rare1TTW","shapes_fit_b/MU_mu8J3M/Rare1TTW","shapes_fit_b/MU_mu8J4M/Rare1TTW"],
+	"fitb_Rare1TTZ":["shapes_fit_b/MU_mu8J2M/Rare1TTZ","shapes_fit_b/MU_mu8J3M/Rare1TTZ","shapes_fit_b/MU_mu8J4M/Rare1TTZ"],
+        "prefit_total":[ "shapes_prefit/MU_mu8J2M/total","shapes_prefit/MU_mu8J3M/total","shapes_prefit/MU_mu8J4M/total"],
+	"totalbg":["shapes_fit_s/MU_mu8J2M/total_background","shapes_fit_s/MU_mu8J3M/total_background","shapes_fit_s/MU_mu8J4M/total_background"],
+	"prefitbg":["shapes_prefit/MU_mu8J2M/total_background","shapes_prefit/MU_mu8J3M/total_background","shapes_prefit/MU_mu8J4M/total_background"],
+	"signal":["shapes_fit_s/MU_mu8J2M/NP_overlay_ttttNLO","shapes_fit_s/MU_mu8J3M/NP_overlay_ttttNLO","shapes_fit_s/MU_mu8J4M/NP_overlay_ttttNLO"],
+	"data":["shapes_fit_s/MU_mu8J2M/data","shapes_fit_s/MU_mu8J3M/data", "shapes_fit_s/MU_mu8J4M/data"],
+        "legend":{"header":"#mu+jets", "coord":[0.2,0.0,1.0,1.0]},
+        "axes":{"ymin":0.0002,"ymax":40},
+        "binlabels":{"ypos":0.8,
+                        "labels":[["N_{j}=8,N_{b}=2"], ["N_{j}=8,N_{b}=3"], ["N_{j}=8,N_{b}=4"]]
+
+	},
+	"filename":"hist_mu8_origbin_pub"
+}
+

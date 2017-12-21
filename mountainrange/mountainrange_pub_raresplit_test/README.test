@@ -1,0 +1,4 @@
+# To run tests use the following command
+
+python -m unittest discover -s ..
+

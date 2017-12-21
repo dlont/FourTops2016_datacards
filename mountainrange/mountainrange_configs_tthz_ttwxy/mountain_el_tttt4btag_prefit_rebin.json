@@ -1,0 +1,45 @@
+{
+	"stack":[
+		["shapes_fit_s/EL_el8J4M/ttbarTTX_rebin",  "shapes_fit_s/EL_el8J4M/ST_tW_rebin",  "shapes_fit_s/EL_el8J4M/EW_rebin",  "shapes_fit_s/EL_el8J4M/Rare1TTHZ_rebin",  "shapes_fit_s/EL_el8J4M/TTRARE_plus_rebin" ],
+		["shapes_fit_s/EL_el9J4M/ttbarTTX_rebin",  "shapes_fit_s/EL_el9J4M/ST_tW_rebin",  "shapes_fit_s/EL_el9J4M/EW_rebin",  "shapes_fit_s/EL_el9J4M/Rare1TTHZ_rebin",  "shapes_fit_s/EL_el9J4M/TTRARE_plus_rebin" ],
+		["shapes_fit_s/EL_el10J4M/ttbarTTX_rebin", "shapes_fit_s/EL_el10J4M/ST_tW_rebin", "shapes_fit_s/EL_el10J4M/EW_rebin", "shapes_fit_s/EL_el10J4M/Rare1TTHZ_rebin", "shapes_fit_s/EL_el10J4M/TTRARE_plus_rebin" ]
+	],
+  "prefit_TTRARE_plus":["shapes_prefit/EL_el8J4M/TTRARE_plus_rebin","shapes_prefit/EL_el9J4M/TTRARE_plus_rebin","shapes_prefit/EL_el10J4M/TTRARE_plus_rebin"],
+	"prefit_Rare1TTH":["shapes_prefit/EL_el8J4M/Rare1TTHZ_rebin","shapes_prefit/EL_el9J4M/Rare1TTHZ_rebin","shapes_prefit/EL_el10J4M/Rare1TTHZ_rebin"],
+  "fits_TTRARE_plus":["shapes_fit_s/EL_el8J4M/TTRARE_plus_rebin","shapes_fit_s/EL_el9J4M/TTRARE_plus_rebin","shapes_fit_s/EL_el10J4M/TTRARE_plus_rebin"],
+	"fits_Rare1TTH":["shapes_fit_s/EL_el8J4M/Rare1TTHZ_rebin","shapes_fit_s/EL_el9J4M/Rare1TTHZ_rebin","shapes_fit_s/EL_el10J4M/Rare1TTHZ_rebin"],
+  "fitb_TTRARE_plus":["shapes_fit_b/EL_el8J4M/TTRARE_plus_rebin","shapes_fit_b/EL_el9J4M/TTRARE_plus_rebin","shapes_fit_b/EL_el10J4M/TTRARE_plus_rebin"],
+	"fitb_Rare1TTH":["shapes_fit_b/EL_el8J4M/Rare1TTHZ_rebin","shapes_fit_b/EL_el9J4M/Rare1TTHZ_rebin","shapes_fit_b/EL_el10J4M/Rare1TTHZ_rebin"],
+  "prefit_total":["shapes_prefit/EL_el8J4M/total","shapes_prefit/EL_el9J4M/total","shapes_prefit/EL_el10J4M/total"],
+	"totalbg":[
+		   "shapes_fit_s/EL_el8J4M/total_background_rebin",
+		   "shapes_fit_s/EL_el9J4M/total_background_rebin",
+		   "shapes_fit_s/EL_el10J4M/total_background_rebin"],
+	"prefitbg":[
+		    "shapes_prefit/EL_el8J4M/total_background_rebin",
+		    "shapes_prefit/EL_el9J4M/total_background_rebin",
+		    "shapes_prefit/EL_el10J4M/total_background_rebin"],
+	"signal":[
+		  "shapes_fit_s/EL_el8J4M/NP_overlay_ttttNLO_rebin",
+		  "shapes_fit_s/EL_el9J4M/NP_overlay_ttttNLO_rebin",
+		  "shapes_fit_s/EL_el10J4M/NP_overlay_ttttNLO_rebin"],
+	"data":[
+		"shapes_fit_s/EL_el8J4M/data_rebin",
+		"shapes_fit_s/EL_el9J4M/data_rebin",
+		"shapes_fit_s/EL_el10J4M/data_rebin"],
+
+        "legend":{"header":"e+jets", "coord":[0.2,0.0,1.0,1.0],
+					"prefit_TTRARE_plus":"t#bar{t}W+XY (prefit)",
+					"prefit_Rare1TTH":"t#bar{t}H+Z (prefit)",
+					"fits_TTRARE_plus":"t#bar{t}W+XY (b+s)",
+					"fits_Rare1TTH":"t#bar{t}H+Z (b+s)",
+					"fitb_TTRARE_plus":"t#bar{t}W+XY (b-only)",
+					"fitb_Rare1TTH":"t#bar{t}H+Z (b-only)"
+				},
+        "axes":{"ymin":0.002},
+        "binlabels":{"ypos":0.8,
+                        "labels":[["N_{j}=8,N_{b}=4"], ["N_{j}=9,N_{b}=4"], ["N_{j}=10,N_{b}=4"]]
+
+	},
+	"filename":"hist_el4btag_rebin_pub"
+}
