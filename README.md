@@ -22,6 +22,14 @@ Expected 50.0%: r < 7.2188
 Expected 84.0%: r < 10.4702
 Expected 97.5%: r < 14.6410
 ```
+- Signal strength
+
+`combine -M FitDiagnostics --X-rtd MINIMIZER_analytic rare_tthz_ttwxy_merge_50bins/datacard_elmu.txt`
+
+```
+ --- FitDiagnostics ---
+Best fit r: 11.9166  -11.9166/+3.68826  (68% CL)
+```
 
 - Asymptotic limits from HT spectrum. No mc stat nuisances
 
