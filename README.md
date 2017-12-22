@@ -45,8 +45,9 @@ Expected 84.0%: r < 14.4589
 Expected 97.5%: r < 20.2186
 ```
 
-## Post-fit plots
-### Muon channel
-`python mountainrange/mountainrange_pub_raresplit.py rare_tthz_ttwxy_merge_50bins/nominal/fitDiagnostics_nominal.root -j mountainrange/mountainrange_configs_tthz_ttwxy/mountain_mu_tttt4btag_prefit.json -b -e pdf -r`
-### Electron channel
-`python mountainrange/mountainrange_pub_raresplit.py rare_tthz_ttwxy_merge_50bins/nominal/fitDiagnostics_nominal.root -j mountainrange/mountainrange_configs_tthz_ttwxy/mountain_el_tttt4btag_prefit.json -b -e pdf -r`
+## Post-fit plots (step 1)
+`combine -M FitDiagnostics --X-rtd MINIMIZER_analytic rare_tthz_ttwxy_merge_50bins/datacard_elmu.txt --X-rtd MINIMIZER_analytic --saveShapes --saveWithUncertainties --saveNormalizations -n _nominal`
+### Muon channel (step 2.a)
+`python mountainrange/mountainrange_pub_raresplit.py fitDiagnostics_nominal.root -j mountainrange/mountainrange_configs_tthz_ttwxy/mountain_mu_tttt4btag_prefit.json -b -e pdf -r`
+### Electron channel (step 2.b)
+`python mountainrange/mountainrange_pub_raresplit.py fitDiagnostics_nominal.root -j mountainrange/mountainrange_configs_tthz_ttwxy/mountain_el_tttt4btag_prefit.json -b -e pdf -r`
