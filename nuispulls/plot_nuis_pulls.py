@@ -66,7 +66,7 @@ if __name__ == '__main__':
         description=__doc__,
         formatter_class=argparse.RawDescriptionHelpFormatter)
         parser.add_argument('infile', help="Input file")
-        parser.add_argument('-o', '--outfile', help="Output file",default='corr')
+        parser.add_argument('-o', '--outfile', help="Output file",default='pulls')
         parser.add_argument('-e', '--extension', help="Output file extension", default='png')
         parser.add_argument('-j', '--config-json', type=json.loads, help="JSON configuration file")
         parser.add_argument('-b', help="ROOT batch mode", dest='isBatch', action='store_true')
