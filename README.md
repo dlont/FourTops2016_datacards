@@ -54,3 +54,12 @@ Expected 97.5%: r < 20.2186
 ## Post-fit normalizations
 `python postfitnorm/postfitnorm.py fitDiagnostics_nominal.root`
 
+## Correlation matrices
+`python corrmatrix/plot_corr_matrix.py fitDiagnostics_nominal.root -b -e pdf`
+
+## Nuisance pulls
+```
+python nuispulls/diffNuisances_denys.py fitDiagnostics_nominal.root -A -a -g out.root
+python nuispulls/plot_nuis_pulls.py -b -e pdf out.root
+```
+
