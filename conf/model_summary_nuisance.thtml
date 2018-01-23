@@ -1,0 +1,42 @@
+<h3>Prior Parameters</h3>
+<table cellpadding="2" border="1">
+<tr><th>parameter</th><th>distribution type</th><th>distribution parameters</th></tr>
+<tr><td>SubTotalScaleJES</td><td>gauss</td><td>width = 1.0; range = [-inf, inf]; mean = 0.0</td></tr>
+<tr><td>EW_norm</td><td>gauss</td><td>width = 1.0; range = [-inf, inf]; mean = 0.0</td></tr>
+<tr><td>tttt_norm</td><td>gauss</td><td>width = 1.0; range = [-inf, inf]; mean = 0.0</td></tr>
+<tr><td>SubTotalRelativeJES</td><td>gauss</td><td>width = 1.0; range = [-inf, inf]; mean = 0.0</td></tr>
+<tr><td>TTUE</td><td>gauss</td><td>width = 1.0; range = [-inf, inf]; mean = 0.0</td></tr>
+<tr><td>leptonSFEl</td><td>gauss</td><td>width = 1.0; range = [-inf, inf]; mean = 0.0</td></tr>
+<tr><td>btagWeightCSVHF</td><td>gauss</td><td>width = 1.0; range = [-inf, inf]; mean = 0.0</td></tr>
+<tr><td>TTJets_norm</td><td>gauss</td><td>width = 1.0; range = [-inf, inf]; mean = 0.0</td></tr>
+<tr><td>TTJets_norm10</td><td>gauss</td><td>width = 1.0; range = [-inf, inf]; mean = 0.0</td></tr>
+<tr><td>btagWeightCSVLFStats2</td><td>gauss</td><td>width = 1.0; range = [-inf, inf]; mean = 0.0</td></tr>
+<tr><td>btagWeightCSVLFStats1</td><td>gauss</td><td>width = 1.0; range = [-inf, inf]; mean = 0.0</td></tr>
+<tr><td>PU</td><td>gauss</td><td>width = 1.0; range = [-inf, inf]; mean = 0.0</td></tr>
+<tr><td>TTPT</td><td>gauss</td><td>width = 1.0; range = [-inf, inf]; mean = 0.0</td></tr>
+<tr><td>leptonSFMu</td><td>gauss</td><td>width = 1.0; range = [-inf, inf]; mean = 0.0</td></tr>
+<tr><td>TTFSR</td><td>gauss</td><td>width = 1.0; range = [-inf, inf]; mean = 0.0</td></tr>
+<tr><td>btagWeightCSVHFStats2</td><td>gauss</td><td>width = 1.0; range = [-inf, inf]; mean = 0.0</td></tr>
+<tr><td>btagWeightCSVHFStats1</td><td>gauss</td><td>width = 1.0; range = [-inf, inf]; mean = 0.0</td></tr>
+<tr><td>JER</td><td>gauss</td><td>width = 1.0; range = [-inf, inf]; mean = 0.0</td></tr>
+<tr><td>TTTTFSR</td><td>gauss</td><td>width = 1.0; range = [-inf, inf]; mean = 0.0</td></tr>
+<tr><td>TTJets_HDAMP</td><td>gauss</td><td>width = 1.0; range = [-inf, inf]; mean = 0.0</td></tr>
+<tr><td>TTRARE_plus_norm</td><td>gauss</td><td>width = 1.0; range = [-inf, inf]; mean = 0.0</td></tr>
+<tr><td>SubTotalFlavorJES</td><td>gauss</td><td>width = 1.0; range = [-inf, inf]; mean = 0.0</td></tr>
+<tr><td>TTISR</td><td>gauss</td><td>width = 1.0; range = [-inf, inf]; mean = 0.0</td></tr>
+<tr><td>ST_tW_norm</td><td>gauss</td><td>width = 1.0; range = [-inf, inf]; mean = 0.0</td></tr>
+<tr><td>TTJets_PDF</td><td>gauss</td><td>width = 1.0; range = [-inf, inf]; mean = 0.0</td></tr>
+<tr><td>btagWeightCSVCFErr1</td><td>gauss</td><td>width = 1.0; range = [-inf, inf]; mean = 0.0</td></tr>
+<tr><td>TTTTMEScale</td><td>gauss</td><td>width = 1.0; range = [-inf, inf]; mean = 0.0</td></tr>
+<tr><td>btagWeightCSVJES</td><td>gauss</td><td>width = 1.0; range = [-inf, inf]; mean = 0.0</td></tr>
+<tr><td>btagWeightCSVCFErr2</td><td>gauss</td><td>width = 1.0; range = [-inf, inf]; mean = 0.0</td></tr>
+<tr><td>ttMEScale</td><td>gauss</td><td>width = 1.0; range = [-inf, inf]; mean = 0.0</td></tr>
+<tr><td>heavyFlav</td><td>gauss</td><td>width = 1.0; range = [-inf, inf]; mean = 0.0</td></tr>
+<tr><td>lumi</td><td>gauss</td><td>width = 1.0; range = [-inf, inf]; mean = 0.0</td></tr>
+<tr><td>TTHZ_norm</td><td>gauss</td><td>width = 1.0; range = [-inf, inf]; mean = 0.0</td></tr>
+<tr><td>btagWeightCSVLF</td><td>gauss</td><td>width = 1.0; range = [-inf, inf]; mean = 0.0</td></tr>
+<tr><td>TTTTISR</td><td>gauss</td><td>width = 1.0; range = [-inf, inf]; mean = 0.0</td></tr>
+<tr><td>SubTotalPileUpJES</td><td>gauss</td><td>width = 1.0; range = [-inf, inf]; mean = 0.0</td></tr>
+<tr><td>SubTotalPtJES</td><td>gauss</td><td>width = 1.0; range = [-inf, inf]; mean = 0.0</td></tr>
+</table>
+
