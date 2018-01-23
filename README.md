@@ -63,3 +63,8 @@ python nuispulls/diffNuisances_denys.py fitDiagnostics_nominal.root -A -a -g out
 python nuispulls/plot_nuis_pulls.py -b -e pdf out.root
 ```
 
+# Using theta
+
+```
+theta/utils2/theta-auto.py conf.py 
+```
