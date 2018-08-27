@@ -6,7 +6,7 @@ import ROOT as rt
 #   Updated by:   Dinko Ferencek (Rutgers)
 #
 
-cmsText     = "CMS";
+cmsText     = "WORK IN PROGRESS";
 cmsTextFont   = 61  
 
 writeExtraText = False
@@ -16,7 +16,7 @@ extraTextFont = 52
 lumiTextSize     = 0.6
 lumiTextOffset   = 0.2
 
-cmsTextSize      = 0.75
+cmsTextSize      = 0.4
 cmsTextOffset    = 0.1
 
 relPosX    = 0.045

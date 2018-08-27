@@ -59,19 +59,19 @@ def draw_legend(**kwargs):
 		if 'hist_tt' in kwargs:
 			hist_tt = kwargs['hist_tt']
 			# if hist_tt: legend.AddEntry(hist_tt,"t#bar{t}",'lf') 
-			if hist_tt: legend.AddEntry(hist_tt,"t#bar{t}(stack)",'lf') # for rare split
+			if hist_tt: legend.AddEntry(hist_tt,"t#bar{t}X",'lf') # for rare split
 		if 'hist_st' in kwargs:
 			hist_st = kwargs['hist_st']
                         # if hist_st: legend.AddEntry(hist_st,"tX",'lf') 
-                        if hist_st: legend.AddEntry(hist_st,"tX(stack)",'lf') # for rare split
+                        if hist_st: legend.AddEntry(hist_st,"tX",'lf') # for rare split
 		if 'hist_ew' in kwargs:
 			hist_ew = kwargs['hist_ew']
                         # if hist_ew: legend.AddEntry(hist_ew,"EW",'lf')	#for slepton
-                        if hist_ew: legend.AddEntry(hist_ew,"EW(stack)",'lf')	#for rare split; for slepton 
+                        #if hist_ew: legend.AddEntry(hist_ew,"EW(stack)",'lf')	#for rare split; for slepton 
                         #if : legend.AddEntry(hist_ew,"DY",'lf')	#for dilepton
 		if 'hist_rare' in kwargs:
 			hist_rare = kwargs['hist_rare']
-                        if hist_rare: legend.AddEntry(hist_rare,"Rare:tt+H,Z,W,XY(stack)",'lf')
+                        if hist_rare: legend.AddEntry(hist_rare,"Rare",'lf')
 		if 'hist_tttt' in kwargs:
 			hist_tttt = kwargs['hist_tttt']
 			if hist_tttt: legend.AddEntry(hist_tttt,"t#bar{t}t#bar{t} (postfit)",'lf')
@@ -227,7 +227,7 @@ def self_ratio(hist):
                 hist.SetBinContent(ibin+1,0.)
 
 def make_mountainrange_plots(jsondic,arguments,stitch_edges,binmapping,**kwargs):
-        hist_bg_prefit_unc_noempty = kwargs['hist_bg_prefit_unc_noempty']
+        hist_bg_prefit_unc_noempty = kwargs.get('hist_bg_prefit_unc_noempty',None)
         hist_st_noempty = kwargs['hist_st_noempty']
         hist_bg_unc_noempty = kwargs['hist_bg_unc_noempty']
         hist_sig_noempty = kwargs['hist_sig_noempty']
@@ -258,7 +258,7 @@ def make_mountainrange_plots(jsondic,arguments,stitch_edges,binmapping,**kwargs)
         hist_fits_Rare1TTW_noempty = None
         if 'hist_fits_Rare1TTW_noempty' in kwargs: hist_fits_Rare1TTW_noempty = kwargs['hist_fits_Rare1TTW_noempty']
 
-    	c = rt.TCanvas('c',"CMS",5,45,1000,750)
+    	c = rt.TCanvas('c',"CMS",5,45,750,750)
 	if arguments.is_ratio and gr_data_noempty:
 		c.Divide(1,3)
 		c.cd(3)
@@ -270,28 +270,31 @@ def make_mountainrange_plots(jsondic,arguments,stitch_edges,binmapping,**kwargs)
 	elif not arguments.is_ratio and gr_data_noempty:
 		c.Divide(1,2)
 		c.cd(2)
-		rt.gPad.SetPad(0.,0.,1.,0.1)
+		rt.gPad.SetPad(0.,0.,1.,0.1);rt.gPad.SetFillStyle(4000)
 		c.cd(1)
-		rt.gPad.SetPad(0.,0.1,1.,1.);rt.gPad.SetFillStyle(4000)
-	hist_bg_prefit_unc_noempty.Draw("E2")
-	ymin = hist_bg_prefit_unc_noempty.GetMinimum()
-	ymax = 10.*hist_bg_prefit_unc_noempty.GetMaximum()
+		rt.gPad.SetPad(0.,0.,1.,1.);rt.gPad.SetBottomMargin(0.15);rt.gPad.SetFillStyle(4000)
+	hist_st_noempty.Draw()
+	ymin = hist_st_noempty.GetMinimum()
+	ymax = 10.*hist_st_noempty.GetMaximum()
 	logymin = ymin
 	logymax = ymax
 	ytitle = ''
 	if "axes" in jsondic:
-		ymin = jsondic['axes'].get('ymin',hist_bg_prefit_unc_noempty.GetMinimum())
-		ymax = jsondic['axes'].get('ymax',10.*hist_bg_prefit_unc_noempty.GetMaximum())
+		ymin = jsondic['axes'].get('ymin',hist_st_noempty.GetMinimum())
+		ymax = jsondic['axes'].get('ymax',10.*hist_st_noempty.GetMaximum())
 		logymin = jsondic['axes'].get('logymin',ymin)
 		logymax = jsondic['axes'].get('logymax',ymax)
         ytitle = jsondic['axes'].get('ytitle','')
-	hist_bg_prefit_unc_noempty.GetYaxis().SetTitle(ytitle)
-	hist_bg_prefit_unc_noempty.SetAxisRange(ymin, ymax, "Y")
+	hist_st_noempty.GetYaxis().SetTitle(ytitle)
+	hist_st_noempty.SetMaximum(ymax)
+	hist_st_noempty.SetMinimum(ymin)
+	hist_st_noempty.GetYaxis().SetLimits(ymin, ymax)
+	hist_st_noempty.GetYaxis().SetRangeUser(ymin, ymax)
 
         #Signal
-	hist_st_noempty.Draw("same")
+	#hist_st_noempty.Draw("same")
         #Total pre- and post-fit backgounds and background stack
-	hist_bg_prefit_unc_noempty.Draw("E2 same")
+	#hist_st_noempty.Draw("E2 same")
 	hist_bg_unc_noempty.Draw("E2 same")
 	hist_sig_noempty.Draw("hist same")
         #Rare backgrounds as histograms
@@ -313,7 +316,7 @@ def make_mountainrange_plots(jsondic,arguments,stitch_edges,binmapping,**kwargs)
         #Legend
 	draw_legend(canvas=c,legend=jsondic['legend'],is_ratio=arguments.is_ratio,
                         data=gr_data_noempty,
-                        hist_pre=hist_bg_prefit_unc_noempty,
+                        hist_pre=None,
                         hist_post=hist_bg_unc_noempty,
 			hist_tttt=hist_sig_noempty,
 			# hist_ew=hist_st_noempty.GetHists()[0],	# for ttrare combined
@@ -341,7 +344,7 @@ def make_mountainrange_plots(jsondic,arguments,stitch_edges,binmapping,**kwargs)
                         hist_ttw_s    = hist_fits_Rare1TTW_noempty
                         )
 
-	draw_subhist_separators(c.cd(1),stitch_edges,binmapping, jsondic['binlabels']['labels'],jsondic['binlabels'], hist_bg_prefit_unc_noempty)
+	draw_subhist_separators(c.cd(1),stitch_edges,binmapping, jsondic['binlabels']['labels'],jsondic['binlabels'], hist_st_noempty)
 	rt.gPad.RedrawAxis()
 
 	if arguments.is_ratio and gr_data_noempty:
@@ -368,7 +371,7 @@ def make_mountainrange_plots(jsondic,arguments,stitch_edges,binmapping,**kwargs)
 	CMS_lumi.CMS_lumi(c.cd(1),4,0)
 	if arguments.outfile:
 		c.Print(arguments.outfile+'_lin.'+arguments.extension)
-		hist_bg_prefit_unc_noempty.SetAxisRange(logymin, logymax, "Y")
+		#hist_st_noempty.SetAxisRange(logymin, logymax, "Y")
 		c.cd(1); rt.gPad.SetLogy();
 		c.Print(arguments.outfile+'_log.'+arguments.extension)
 	else:
@@ -377,7 +380,7 @@ def make_mountainrange_plots(jsondic,arguments,stitch_edges,binmapping,**kwargs)
 				os.makedirs(arguments.dir)
 			c.Print(arguments.dir+'/'+jsondic['filename']+'_lin.'+arguments.extension)
 			c.cd(1); rt.gPad.SetLogy();
-			hist_bg_prefit_unc_noempty.SetAxisRange(logymin, logymax, "Y")			
+			#hist_st_noempty.SetAxisRange(logymin, logymax, "Y")			
 			c.Print(arguments.dir+'/'+jsondic['filename']+'_log.'+arguments.extension)
 
 def print_toys_pval(arguments):
@@ -451,7 +454,7 @@ def main(arguments):
 	stitch_edges = mr.fillsingle(hist_sig, inputrootfile, jsondic['signal'])
 
 	#Background components
-    	hist_st = rt.THStack('hist_st','background stack;Bin id;events')
+    	hist_st = rt.THStack('hist_st','background stack;Bin id (HT);events')
 	mr.fillstack(hist_st, hist_sig, inputrootfile, jsondic['stack'])
 
 	#Total bg with uncertainties
@@ -480,7 +483,7 @@ def main(arguments):
 	hist_sig_noempty    = mr.noemptybins(hist_sig, binmapping);
     	style_hist_sig_noempty(hist_sig_noempty,arguments.scale_signal)
 
-	hist_st_noempty = rt.THStack('hist_st_mountain','background stack;Bin id;events')
+	hist_st_noempty = rt.THStack('hist_st_mountain','background stack;Bin id (HT);events')
 	for hist in hist_st.GetHists():
 		hist_noempty = mr.noemptybins(hist, binmapping)
         	style_stack_hist(hist_noempty)
