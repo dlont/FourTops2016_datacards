@@ -12,7 +12,7 @@ https://cms-hcomb.gitbooks.io/combine/content/
 
 - Asymptotic limits from MVA spectrum
 
-Convert .txt datacard to RooStat workspace in .root file
+Convert .txt datacard to RooStat workspace in .root file. **One can skip this step**
 `text2workspace.py --channel-masks combined_elmu.txt`
 
 Actual limit setting
@@ -42,29 +42,28 @@ Best fit r: 6.24278e-12  -6.24278e-12/+3.12414  (68% CL)
  -- Significance -- 
 Significance: 0.138035
 ```
+# Dilepton reference results
 
+`cd dilepton`
+`combine -M Asymptotic --run blind combined_dil.root`
+```
+ -- AsymptoticLimits ( CLs ) --
+Expected  2.5%: r < 3.2684
+Expected 16.0%: r < 4.5913
+Expected 50.0%: r < 7.0312
+Expected 84.0%: r < 11.3474
+Expected 97.5%: r < 18.4807
+```
 
-## Post-fit plots (step 1)
-`combine -M FitDiagnostics --X-rtd MINIMIZER_analytic rare_tthz_ttwxy_merge_50bins/datacard_elmu.txt --X-rtd MINIMIZER_analytic --saveShapes --saveWithUncertainties --saveNormalizations -n _nominal`
-### Muon channel (step 2.a)
-`python mountainrange/mountainrange_pub_raresplit.py fitDiagnostics_nominal.root -j mountainrange/mountainrange_configs_tthz_ttwxy/mountain_mu_tttt4btag_prefit.json -b -e pdf -r`
-### Electron channel (step 2.b)
-`python mountainrange/mountainrange_pub_raresplit.py fitDiagnostics_nominal.root -j mountainrange/mountainrange_configs_tthz_ttwxy/mountain_el_tttt4btag_prefit.json -b -e pdf -r`
 
 ## Post-fit normalizations
-`python postfitnorm/postfitnorm.py fitDiagnostics_nominal.root`
+`python postfitnorm/postfitnorm.py fitDiagnostics.root`
 
 ## Correlation matrices
-`python corrmatrix/plot_corr_matrix.py fitDiagnostics_nominal.root -b -e pdf`
+`python corrmatrix/plot_corr_matrix.py fitDiagnostics.root -b -e pdf`
 
 ## Nuisance pulls
 ```
-python nuispulls/diffNuisances_denys.py fitDiagnostics_nominal.root -A -a -g out.root
+python nuispulls/diffNuisances_denys.py fitDiagnostics.root -A -a -g out.root
 python nuispulls/plot_nuis_pulls.py -b -e pdf out.root
-```
-
-# Using theta
-
-```
-theta/utils2/theta-auto.py conf.py 
 ```
