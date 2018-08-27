@@ -12,38 +12,38 @@ https://cms-hcomb.gitbooks.io/combine/content/
 
 - Asymptotic limits from MVA spectrum
 
-`combine -M Asymptotic rare_tthz_ttwxy_merge_50bins/datacard_elmu.txt`
-```
--- AsymptoticLimits ( CLs ) --
-Observed Limit: r < 18.8021
-Expected  2.5%: r < 3.6940
-Expected 16.0%: r < 5.0433
-Expected 50.0%: r < 7.2188
-Expected 84.0%: r < 10.4702
-Expected 97.5%: r < 14.6410
-```
-- Signal strength
+Convert .txt datacard to RooStat workspace in .root file
+`text2workspace.py --channel-masks combined_elmu.txt`
 
-`combine -M FitDiagnostics --X-rtd MINIMIZER_analytic rare_tthz_ttwxy_merge_50bins/datacard_elmu.txt`
-
-```
- --- FitDiagnostics ---
-Best fit r: 11.9166  -11.9166/+3.68826  (68% CL)
-```
-
-- Asymptotic limits from HT spectrum. No mc stat nuisances
-
-`combine -M Asymptotic rare_tthz_ttwxy_merge_50bins/HT/datacard_elmu.txt`
+Actual limit setting
+`combine -M Asymptotic combined_elmu.root --run blind`
 
 ```
  -- AsymptoticLimits ( CLs ) --
-Observed Limit: r < 20.6981
-Expected  2.5%: r < 5.1401
-Expected 16.0%: r < 6.9886
-Expected 50.0%: r < 9.9688
-Expected 84.0%: r < 14.4589
-Expected 97.5%: r < 20.2186
+Expected  2.5%: r < 7.1919
+Expected 16.0%: r < 9.4119
+Expected 50.0%: r < 12.8750
+Expected 84.0%: r < 17.7504
+Expected 97.5%: r < 23.5186
+
 ```
+- Signal strength in control regions
+Blind the most sensitive control regions mu10J4M and el10J4M
+`combine -M FitDiagnostics --X-rtd MINIMIZER_analytic combined_elmu.root --setParameters mask_MU_mu10J4M=1,mask_EL_el10J4M=1`
+
+```
+ --- FitDiagnostics ---
+Best fit r: 6.24278e-12  -6.24278e-12/+3.12414  (68% CL)
+```
+
+- Blind signal significance
+`combine -M Significance --X-rtd MINIMIZER_analytic combined_elmu.root -t -1 --expectSignal=1`
+```
+ -- Significance -- 
+Significance: 0.138035
+```
+
+
 ## Post-fit plots (step 1)
 `combine -M FitDiagnostics --X-rtd MINIMIZER_analytic rare_tthz_ttwxy_merge_50bins/datacard_elmu.txt --X-rtd MINIMIZER_analytic --saveShapes --saveWithUncertainties --saveNormalizations -n _nominal`
 ### Muon channel (step 2.a)
