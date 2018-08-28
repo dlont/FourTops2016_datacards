@@ -1,5 +1,20 @@
 # Repository with datacards for 2016 tttt analysis
 
+**Synopsis:** Files in this folder contain histograms (in root files) and Higgs combine datacards that can be used for limit setting, fit diagnostics etc.
+
+**Folder structure:**
+```
+plots_mu_filt_custombinning_10J4M # single muon channel histogram files
+plots_el_filt_custombinning_10J4M # single electon channel histogram files
+dilepton			  # dilepton histrogram files
+combined_elmu.txt		  # single lepton combine datacard
+combined_elmu.root		  # single lepton combine datacard. RooStat workspace for reference
+corrmatrix			  # correlation matrix plotting tool
+nuispulls			  # nuissance plotting tool
+postfitnorm			  # postfit normalizations table tool
+mountainrange			  # mountain range plotting tool
+```
+
 ## Setup instructions
 
 ### Required 
