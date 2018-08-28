@@ -29,9 +29,11 @@ https://cms-hcomb.gitbooks.io/combine/content/
 - Asymptotic limits from MVA spectrum
 
 Convert .txt datacard to RooStat workspace in .root file. **One can skip this step**
+
 `text2workspace.py --channel-masks combined_elmu.txt`
 
 Actual limit setting
+
 `combine -M Asymptotic combined_elmu.root --run blind`
 
 ```
@@ -45,6 +47,7 @@ Expected 97.5%: r < 23.5186
 ```
 - Signal strength in control regions
 Blind the most sensitive control regions mu10J4M and el10J4M
+
 `combine -M FitDiagnostics --X-rtd MINIMIZER_analytic combined_elmu.root --setParameters mask_MU_mu10J4M=1,mask_EL_el10J4M=1`
 
 ```
@@ -53,6 +56,7 @@ Best fit r: 6.24278e-12  -6.24278e-12/+3.12414  (68% CL)
 ```
 
 - Blind signal significance
+
 `combine -M Significance --X-rtd MINIMIZER_analytic combined_elmu.root -t -1 --expectSignal=1`
 ```
  -- Significance -- 
@@ -60,9 +64,11 @@ Significance: 0.138035
 ```
 # Dilepton reference results
 
-`cd dilepton`
+```
+cd dilepton
+combine -M Asymptotic --run blind combined_dil.root
+```
 
-`combine -M Asymptotic --run blind combined_dil.root`
 ```
  -- AsymptoticLimits ( CLs ) --
 Expected  2.5%: r < 3.2684
