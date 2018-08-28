@@ -1,6 +1,7 @@
 # Repository with datacards for 2016 tttt analysis
 
 **Synopsis:** Files in this folder contain histograms (in root files) and Higgs combine datacards that can be used for limit setting, fit diagnostics etc.
+Results were presented at https://indico.cern.ch/event/747625/contributions/3104461/attachments/1701938/2741208/Denys.pdf
 
 **Folder structure:**
 ```
