@@ -1,0 +1,323 @@
+
+  RooFitResult: minimized FCN value: -3.75875e-09, estimated distance to minimum: 1.73915e-09
+                covariance matrix quality: Full, accurate covariance matrix
+                Status : MINIMIZE=1 MINIMIZE=-1 MINIMIZE=0 MINIMIZE=1 HESSE=1 
+
+    Constant Parameter    Value     
+  --------------------  ------------
+            EW_norm_In    0.0000e+00
+                JER_In    0.0000e+00
+                JES_In    0.0000e+00
+                 PU_In    0.0000e+00
+         ST_tW_norm_In    0.0000e+00
+             ScaleH_In    0.0000e+00
+        TTJets_norm_In    0.0000e+00
+  btagWeightCSVCFErr1_In    0.0000e+00
+  btagWeightCSVCFErr2_In    0.0000e+00
+  btagWeightCSVHFStats1_In    0.0000e+00
+  btagWeightCSVHFStats2_In    0.0000e+00
+    btagWeightCSVHF_In    0.0000e+00
+  btagWeightCSVLFStats1_In    0.0000e+00
+  btagWeightCSVLFStats2_In    0.0000e+00
+    btagWeightCSVLF_In    0.0000e+00
+          heavyFlav_In    0.0000e+00
+         leptonSFEl_In    0.0000e+00
+         leptonSFMu_In    0.0000e+00
+           leptonSF_In    0.0000e+00
+               lumi_In    0.0000e+00
+             lumiscale    9.7300e-01
+        ttGenerator_In    0.0000e+00
+          ttMEScale_In    0.0000e+00
+        ttttMEScale_In    0.0000e+00
+          tttt_norm_In    0.0000e+00
+
+    Floating Parameter  InitialValue    FinalValue +/-  Error     GblCorr.
+  --------------------  ------------  --------------------------  --------
+               EW_norm    0.0000e+00    3.6992e-07 +/-  9.93e-01  <none>
+                   JER    0.0000e+00   -2.5770e-05 +/-  9.67e-01  <none>
+                   JES    0.0000e+00    1.6969e-05 +/-  2.40e-01  <none>
+                    PU    0.0000e+00    6.8615e-07 +/-  9.39e-01  <none>
+            ST_tW_norm    0.0000e+00    5.4859e-07 +/-  9.94e-01  <none>
+                ScaleH    0.0000e+00   -3.2375e-06 +/-  1.22e-01  <none>
+           TTJets_norm    0.0000e+00    1.2636e-05 +/-  9.30e-01  <none>
+   btagWeightCSVCFErr1    0.0000e+00    7.1822e-07 +/-  4.65e-01  <none>
+   btagWeightCSVCFErr2    0.0000e+00   -1.9766e-05 +/-  8.31e-01  <none>
+       btagWeightCSVHF    0.0000e+00   -1.8794e-06 +/-  7.09e-01  <none>
+  btagWeightCSVHFStats1    0.0000e+00   -1.7675e-05 +/-  8.90e-01  <none>
+  btagWeightCSVHFStats2    0.0000e+00    1.2207e-06 +/-  9.19e-01  <none>
+       btagWeightCSVLF    0.0000e+00    1.9547e-07 +/-  8.94e-01  <none>
+  btagWeightCSVLFStats1    0.0000e+00   -1.1643e-06 +/-  9.00e-01  <none>
+  btagWeightCSVLFStats2    0.0000e+00   -9.8057e-06 +/-  9.17e-01  <none>
+             heavyFlav    0.0000e+00    1.8010e-06 +/-  1.91e-01  <none>
+              leptonSF    0.0000e+00    6.2970e-07 +/-  9.40e-01  <none>
+            leptonSFEl    0.0000e+00    2.1375e-06 +/-  5.56e-01  <none>
+            leptonSFMu    0.0000e+00    8.2668e-07 +/-  9.56e-01  <none>
+                  lumi    0.0000e+00    4.6461e-06 +/-  1.00e+00  <none>
+                     r    1.0000e+00    2.0435e-08 +/-  1.86e+01  <none>
+           ttGenerator    0.0000e+00   -1.1887e-06 +/-  1.41e-01  <none>
+             ttMEScale    0.0000e+00   -1.3419e-05 +/-  4.07e-01  <none>
+           ttttMEScale    0.0000e+00    2.2569e-09 +/-  9.95e-01  <none>
+             tttt_norm    0.0000e+00    7.8261e-09 +/-  9.83e-01  <none>
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:00, CP time 0.250
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:00, CP time 0.240
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:00, CP time 0.240
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:00, CP time 0.250
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:00, CP time 0.240
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:00, CP time 0.240
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:00, CP time 0.240
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:00, CP time 0.240
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:00, CP time 0.240
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:00, CP time 0.240
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:00, CP time 0.240
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:00, CP time 0.260
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:00, CP time 0.240
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:00, CP time 0.240
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:00, CP time 0.240
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:00, CP time 0.240
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:00, CP time 0.260
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:00, CP time 0.250
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:00, CP time 0.240
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:00, CP time 0.240
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:00, CP time 0.240
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:00, CP time 0.250
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:00, CP time 0.240
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:00, CP time 0.240
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:00, CP time 0.230
+
+
+  RooFitResult: minimized FCN value: -3.75875e-09, estimated distance to minimum: 1.73915e-09
+                covariance matrix quality: Full, accurate covariance matrix
+                Status : MINIMIZE=1 MINIMIZE=-1 MINIMIZE=0 MINIMIZE=1 HESSE=1 
+
+    Constant Parameter    Value     
+  --------------------  ------------
+            EW_norm_In    0.0000e+00
+                JER_In    0.0000e+00
+                JES_In    0.0000e+00
+                 PU_In    0.0000e+00
+         ST_tW_norm_In    0.0000e+00
+             ScaleH_In    0.0000e+00
+        TTJets_norm_In    0.0000e+00
+  btagWeightCSVCFErr1_In    0.0000e+00
+  btagWeightCSVCFErr2_In    0.0000e+00
+  btagWeightCSVHFStats1_In    0.0000e+00
+  btagWeightCSVHFStats2_In    0.0000e+00
+    btagWeightCSVHF_In    0.0000e+00
+  btagWeightCSVLFStats1_In    0.0000e+00
+  btagWeightCSVLFStats2_In    0.0000e+00
+    btagWeightCSVLF_In    0.0000e+00
+          heavyFlav_In    0.0000e+00
+         leptonSFEl_In    0.0000e+00
+         leptonSFMu_In    0.0000e+00
+           leptonSF_In    0.0000e+00
+               lumi_In    0.0000e+00
+             lumiscale    9.7300e-01
+        ttGenerator_In    0.0000e+00
+          ttMEScale_In    0.0000e+00
+        ttttMEScale_In    0.0000e+00
+          tttt_norm_In    0.0000e+00
+
+    Floating Parameter  InitialValue    FinalValue (+HiError,-LoError)    GblCorr.
+  --------------------  ------------  ----------------------------------  --------
+               EW_norm    0.0000e+00    3.6992e-07 (+1.52e+01,--0.00e+00)  <none>
+                   JER    0.0000e+00   -2.5770e-05 (+1.52e+01,--0.00e+00)  <none>
+                   JES    0.0000e+00    1.6969e-05 (+1.52e+01,--0.00e+00)  <none>
+                    PU    0.0000e+00    6.8615e-07 (+1.52e+01,--0.00e+00)  <none>
+            ST_tW_norm    0.0000e+00    5.4859e-07 (+1.52e+01,--0.00e+00)  <none>
+                ScaleH    0.0000e+00   -3.2375e-06 (+1.52e+01,--0.00e+00)  <none>
+           TTJets_norm    0.0000e+00    1.2636e-05 (+1.52e+01,--0.00e+00)  <none>
+   btagWeightCSVCFErr1    0.0000e+00    7.1822e-07 (+1.52e+01,--0.00e+00)  <none>
+   btagWeightCSVCFErr2    0.0000e+00   -1.9766e-05 (+1.52e+01,--0.00e+00)  <none>
+       btagWeightCSVHF    0.0000e+00   -1.8794e-06 (+1.52e+01,--0.00e+00)  <none>
+  btagWeightCSVHFStats1    0.0000e+00   -1.7675e-05 (+1.52e+01,--0.00e+00)  <none>
+  btagWeightCSVHFStats2    0.0000e+00    1.2207e-06 (+1.52e+01,--0.00e+00)  <none>
+       btagWeightCSVLF    0.0000e+00    1.9547e-07 (+1.52e+01,--0.00e+00)  <none>
+  btagWeightCSVLFStats1    0.0000e+00   -1.1643e-06 (+1.52e+01,--0.00e+00)  <none>
+  btagWeightCSVLFStats2    0.0000e+00   -9.8057e-06 (+1.52e+01,--0.00e+00)  <none>
+             heavyFlav    0.0000e+00    1.8010e-06 (+1.52e+01,--0.00e+00)  <none>
+              leptonSF    0.0000e+00    6.2970e-07 (+1.52e+01,--0.00e+00)  <none>
+            leptonSFEl    0.0000e+00    2.1375e-06 (+1.52e+01,--0.00e+00)  <none>
+            leptonSFMu    0.0000e+00    8.2668e-07 (+1.52e+01,--0.00e+00)  <none>
+                  lumi    0.0000e+00    4.6461e-06 (+1.52e+01,--0.00e+00)  <none>
+                     r    1.0000e+00    2.0435e-08 (+2.37e+00,--0.00e+00)  <none>
+           ttGenerator    0.0000e+00   -1.1887e-06 (+1.52e+01,--0.00e+00)  <none>
+             ttMEScale    0.0000e+00   -1.3419e-05 (+1.52e+01,--0.00e+00)  <none>
+           ttttMEScale    0.0000e+00    2.2569e-09 (+1.52e+01,--0.00e+00)  <none>
+             tttt_norm    0.0000e+00    7.8261e-09 (+1.52e+01,--0.00e+00)  <none>
+
+index 0, Name TOPel_ttttel6nJets2nMtags/EW, val 45.8283
+index 1, Name TOPel_ttttel6nJets2nMtags/ST_tW, val 29.0061
+index 2, Name TOPel_ttttel6nJets3nMtags/EW, val 0.480565
+index 3, Name TOPel_ttttel6nJets3nMtags/ST_tW, val 5.20993
+index 4, Name TOPel_ttttel6nJets4nMtags/EW, val 0.0848456
+index 5, Name TOPel_ttttel6nJets4nMtags/ST_tW, val 0.317295
+index 6, Name TOPel_ttttel7nJets2nMtags/EW, val 9.40084
+index 7, Name TOPel_ttttel7nJets2nMtags/ST_tW, val 7.88072
+index 8, Name TOPel_ttttel7nJets3nMtags/EW, val 0.242082
+index 9, Name TOPel_ttttel7nJets3nMtags/ST_tW, val 1.56001
+index 10, Name TOPel_ttttel7nJets4nMtags/EW, val 0.0579908
+index 11, Name TOPel_ttttel7nJets4nMtags/ST_tW, val 0.23965
+index 12, Name TOPel_ttttel8nJets2nMtags/EW, val 2.01693
+index 13, Name TOPel_ttttel8nJets2nMtags/ST_tW, val 2.52406
+index 14, Name TOPel_ttttel8nJets3nMtags/ST_tW, val 0.487473
+index 15, Name TOPel_ttttel8nJets4nMtags/ST_tW, val 0.1081
+index 16, Name TOPel_ttttel9nJets2nMtags/EW, val 0.194795
+index 17, Name TOPel_ttttel9nJets2nMtags/ST_tW, val 0.573486
+index 18, Name TOPel_ttttel9nJets3nMtags/ST_tW, val 0.222817
+index 19, Name TOPel_ttttel9nJets4nMtags/ST_tW, val 0.0811482
+index 20, Name TOPelel_ttttelel4nJets/EW, val 0.616493
+index 21, Name TOPelel_ttttelel4nJets/ST_tW, val 2.15597
+index 22, Name TOPelel_ttttelel6nJets/EW, val 0.131939
+index 23, Name TOPelel_ttttelel6nJets/ST_tW, val 0.812261
+index 24, Name TOPelel_ttttelel8nJets/EW, val 0.212309
+index 25, Name TOPelel_ttttelel8nJets/ST_tW, val 0.0654829
+index 26, Name TOPmu_ttttmu6nJets2nMtags/EW, val 48.3318
+index 27, Name TOPmu_ttttmu6nJets2nMtags/ST_tW, val 39.7257
+index 28, Name TOPmu_ttttmu6nJets3nMtags/EW, val 2.38716
+index 29, Name TOPmu_ttttmu6nJets3nMtags/ST_tW, val 6.29755
+index 30, Name TOPmu_ttttmu6nJets4nMtags/EW, val 0.0432985
+index 31, Name TOPmu_ttttmu6nJets4nMtags/ST_tW, val 0.627585
+index 32, Name TOPmu_ttttmu7nJets2nMtags/EW, val 25.3345
+index 33, Name TOPmu_ttttmu7nJets2nMtags/ST_tW, val 10.6832
+index 34, Name TOPmu_ttttmu7nJets3nMtags/EW, val 0.154123
+index 35, Name TOPmu_ttttmu7nJets3nMtags/ST_tW, val 2.03844
+index 36, Name TOPmu_ttttmu7nJets4nMtags/EW, val 0.0790076
+index 37, Name TOPmu_ttttmu7nJets4nMtags/ST_tW, val 0.244807
+index 38, Name TOPmu_ttttmu8nJets2nMtags/EW, val 0.410801
+index 39, Name TOPmu_ttttmu8nJets2nMtags/ST_tW, val 3.51243
+index 40, Name TOPmu_ttttmu8nJets3nMtags/ST_tW, val 0.617271
+index 41, Name TOPmu_ttttmu8nJets4nMtags/ST_tW, val 0.0499149
+index 42, Name TOPmu_ttttmu9nJets2nMtags/EW, val 1.92411
+index 43, Name TOPmu_ttttmu9nJets2nMtags/ST_tW, val 0.871613
+index 44, Name TOPmu_ttttmu9nJets3nMtags/ST_tW, val 0.201411
+index 45, Name TOPmuel_ttttmuel4nJets/EW, val 0.18633
+index 46, Name TOPmuel_ttttmuel4nJets/ST_tW, val 5.49152
+index 47, Name TOPmuel_ttttmuel6nJets/EW, val 0.0734615
+index 48, Name TOPmuel_ttttmuel6nJets/ST_tW, val 1.43936
+index 49, Name TOPmuel_ttttmuel8nJets/ST_tW, val 0.206373
+index 50, Name TOPmumu_ttttmumu4nJets/EW, val 1.68494
+index 51, Name TOPmumu_ttttmumu4nJets/ST_tW, val 3.62949
+index 52, Name TOPmumu_ttttmumu6nJets/EW, val 0.250158
+index 53, Name TOPmumu_ttttmumu6nJets/ST_tW, val 0.436099
+index 54, Name TOPmumu_ttttmumu8nJets/EW, val 0.0854294
+index 55, Name TOPel_ttttel6nJets2nMtags/NP_overlay_ttttNLO, val 3.83809e-07
+index 56, Name TOPel_ttttel6nJets2nMtags/ttbarTTX, val 2053.73
+index 57, Name TOPel_ttttel6nJets3nMtags/NP_overlay_ttttNLO, val 2.1147e-07
+index 58, Name TOPel_ttttel6nJets3nMtags/ttbarTTX, val 342.003
+index 59, Name TOPel_ttttel6nJets4nMtags/NP_overlay_ttttNLO, val 5.41408e-08
+index 60, Name TOPel_ttttel6nJets4nMtags/ttbarTTX, val 31.1958
+index 61, Name TOPel_ttttel7nJets2nMtags/NP_overlay_ttttNLO, val 5.25862e-07
+index 62, Name TOPel_ttttel7nJets2nMtags/ttbarTTX, val 670.147
+index 63, Name TOPel_ttttel7nJets3nMtags/NP_overlay_ttttNLO, val 3.4173e-07
+index 64, Name TOPel_ttttel7nJets3nMtags/ttbarTTX, val 137.287
+index 65, Name TOPel_ttttel7nJets4nMtags/NP_overlay_ttttNLO, val 1.21951e-07
+index 66, Name TOPel_ttttel7nJets4nMtags/ttbarTTX, val 18.0367
+index 67, Name TOPel_ttttel8nJets2nMtags/NP_overlay_ttttNLO, val 5.20769e-07
+index 68, Name TOPel_ttttel8nJets2nMtags/ttbarTTX, val 192.083
+index 69, Name TOPel_ttttel8nJets3nMtags/NP_overlay_ttttNLO, val 4.02571e-07
+index 70, Name TOPel_ttttel8nJets3nMtags/ttbarTTX, val 46.1488
+index 71, Name TOPel_ttttel8nJets4nMtags/NP_overlay_ttttNLO, val 1.74215e-07
+index 72, Name TOPel_ttttel8nJets4nMtags/ttbarTTX, val 7.44131
+index 73, Name TOPel_ttttel9nJets2nMtags/NP_overlay_ttttNLO, val 7.03294e-07
+index 74, Name TOPel_ttttel9nJets2nMtags/ttbarTTX, val 75.1446
+index 75, Name TOPel_ttttel9nJets3nMtags/NP_overlay_ttttNLO, val 6.49154e-07
+index 76, Name TOPel_ttttel9nJets3nMtags/ttbarTTX, val 22.4216
+index 77, Name TOPel_ttttel9nJets4nMtags/NP_overlay_ttttNLO, val 3.71481e-07
+index 78, Name TOPel_ttttel9nJets4nMtags/ttbarTTX, val 5.04939
+index 79, Name TOPelel_ttttelel4nJets/NP_overlay_ttttNLO, val 3.77913e-08
+index 80, Name TOPelel_ttttelel4nJets/ttbarTTX, val 35.7769
+index 81, Name TOPelel_ttttelel6nJets/NP_overlay_ttttNLO, val 1.58134e-07
+index 82, Name TOPelel_ttttelel6nJets/ttbarTTX, val 16.5145
+index 83, Name TOPelel_ttttelel8nJets/NP_overlay_ttttNLO, val 1.31868e-07
+index 84, Name TOPelel_ttttelel8nJets/ttbarTTX, val 2.18098
+index 85, Name TOPmu_ttttmu6nJets2nMtags/NP_overlay_ttttNLO, val 5.27469e-07
+index 86, Name TOPmu_ttttmu6nJets2nMtags/ttbarTTX, val 3001.57
+index 87, Name TOPmu_ttttmu6nJets3nMtags/NP_overlay_ttttNLO, val 2.76332e-07
+index 88, Name TOPmu_ttttmu6nJets3nMtags/ttbarTTX, val 497.578
+index 89, Name TOPmu_ttttmu6nJets4nMtags/NP_overlay_ttttNLO, val 7.42425e-08
+index 90, Name TOPmu_ttttmu6nJets4nMtags/ttbarTTX, val 46.3098
+index 91, Name TOPmu_ttttmu7nJets2nMtags/NP_overlay_ttttNLO, val 7.62526e-07
+index 92, Name TOPmu_ttttmu7nJets2nMtags/ttbarTTX, val 971.86
+index 93, Name TOPmu_ttttmu7nJets3nMtags/NP_overlay_ttttNLO, val 5.15141e-07
+index 94, Name TOPmu_ttttmu7nJets3nMtags/ttbarTTX, val 199.51
+index 95, Name TOPmu_ttttmu7nJets4nMtags/NP_overlay_ttttNLO, val 1.75019e-07
+index 96, Name TOPmu_ttttmu7nJets4nMtags/ttbarTTX, val 26.1052
+index 97, Name TOPmu_ttttmu8nJets2nMtags/NP_overlay_ttttNLO, val 7.45641e-07
+index 98, Name TOPmu_ttttmu8nJets2nMtags/ttbarTTX, val 274.587
+index 99, Name TOPmu_ttttmu8nJets3nMtags/NP_overlay_ttttNLO, val 5.68478e-07
+index 100, Name TOPmu_ttttmu8nJets3nMtags/ttbarTTX, val 66.8965
+index 101, Name TOPmu_ttttmu8nJets4nMtags/NP_overlay_ttttNLO, val 2.4551e-07
+index 102, Name TOPmu_ttttmu8nJets4nMtags/ttbarTTX, val 10.9668
+index 103, Name TOPmu_ttttmu9nJets2nMtags/NP_overlay_ttttNLO, val 1.0477e-06
+index 104, Name TOPmu_ttttmu9nJets2nMtags/ttbarTTX, val 108.232
+index 105, Name TOPmu_ttttmu9nJets3nMtags/NP_overlay_ttttNLO, val 9.12889e-07
+index 106, Name TOPmu_ttttmu9nJets3nMtags/ttbarTTX, val 31.3632
+index 107, Name TOPmu_ttttmu9nJets4nMtags/NP_overlay_ttttNLO, val 5.22647e-07
+index 108, Name TOPmu_ttttmu9nJets4nMtags/ttbarTTX, val 6.54324
+index 109, Name TOPmuel_ttttmuel4nJets/NP_overlay_ttttNLO, val 1.19002e-07
+index 110, Name TOPmuel_ttttmuel4nJets/ttbarTTX, val 110.397
+index 111, Name TOPmuel_ttttmuel6nJets/NP_overlay_ttttNLO, val 4.84855e-07
+index 112, Name TOPmuel_ttttmuel6nJets/ttbarTTX, val 49.6068
+index 113, Name TOPmuel_ttttmuel8nJets/NP_overlay_ttttNLO, val 3.81398e-07
+index 114, Name TOPmuel_ttttmuel8nJets/ttbarTTX, val 6.3897
+index 115, Name TOPmumu_ttttmumu4nJets/NP_overlay_ttttNLO, val 5.36047e-08
+index 116, Name TOPmumu_ttttmumu4nJets/ttbarTTX, val 52.6309
+index 117, Name TOPmumu_ttttmumu6nJets/NP_overlay_ttttNLO, val 2.25676e-07
+index 118, Name TOPmumu_ttttmumu6nJets/ttbarTTX, val 24.1152
+index 119, Name TOPmumu_ttttmumu8nJets/NP_overlay_ttttNLO, val 2.02626e-07
+index 120, Name TOPmumu_ttttmumu8nJets/ttbarTTX, val 3.21451
+
+ --- MaxLikelihoodFit ---
+Best fit r: 2.0435e-08  -2.0435e-08/+2.37216  (68% CL)
+nll S+B -> 2.40834e-09  nll B -> 0
+Done in 0.58 min (cpu), 0.58 min (real)

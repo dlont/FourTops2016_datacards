@@ -1,0 +1,2458 @@
+
+  RooFitResult: minimized FCN value: 0, estimated distance to minimum: 2.54115e-07
+                covariance matrix quality: Full, accurate covariance matrix
+                Status : MINIMIZE=0 HESSE=0 
+
+    Constant Parameter    Value     
+  --------------------  ------------
+            EW_norm_In    0.0000e+00
+                JER_In    0.0000e+00
+                JES_In    0.0000e+00
+                 PU_In    0.0000e+00
+         ST_tW_norm_In    0.0000e+00
+             ScaleH_In    0.0000e+00
+        TTJets_norm_In    0.0000e+00
+                TTW_In    0.0000e+00
+               TTZH_In    0.0000e+00
+                 WW_In    0.0000e+00
+                 WZ_In    0.0000e+00
+                 XG_In    0.0000e+00
+              bshlt_In    0.0000e+00
+  btagWeightCSVCFErr1_In    0.0000e+00
+  btagWeightCSVCFErr2_In    0.0000e+00
+  btagWeightCSVHFStats1_In    0.0000e+00
+  btagWeightCSVHFStats2_In    0.0000e+00
+    btagWeightCSVHF_In    0.0000e+00
+  btagWeightCSVLFStats1_In    0.0000e+00
+  btagWeightCSVLFStats2_In    0.0000e+00
+    btagWeightCSVLF_In    0.0000e+00
+               btag_In    0.0000e+00
+          fakes_EWK_In    0.0000e+00
+              fakes_In    0.0000e+00
+  fakes_stat_hihi10_In    0.0000e+00
+  fakes_stat_hihi11_In    0.0000e+00
+  fakes_stat_hihi12_In    0.0000e+00
+  fakes_stat_hihi13_In    0.0000e+00
+  fakes_stat_hihi14_In    0.0000e+00
+  fakes_stat_hihi15_In    0.0000e+00
+  fakes_stat_hihi16_In    0.0000e+00
+  fakes_stat_hihi17_In    0.0000e+00
+  fakes_stat_hihi18_In    0.0000e+00
+  fakes_stat_hihi19_In    0.0000e+00
+   fakes_stat_hihi1_In    0.0000e+00
+  fakes_stat_hihi20_In    0.0000e+00
+  fakes_stat_hihi21_In    0.0000e+00
+  fakes_stat_hihi22_In    0.0000e+00
+  fakes_stat_hihi23_In    0.0000e+00
+  fakes_stat_hihi24_In    0.0000e+00
+  fakes_stat_hihi25_In    0.0000e+00
+  fakes_stat_hihi26_In    0.0000e+00
+  fakes_stat_hihi27_In    0.0000e+00
+  fakes_stat_hihi28_In    0.0000e+00
+  fakes_stat_hihi29_In    0.0000e+00
+   fakes_stat_hihi2_In    0.0000e+00
+  fakes_stat_hihi30_In    0.0000e+00
+  fakes_stat_hihi31_In    0.0000e+00
+  fakes_stat_hihi32_In    0.0000e+00
+   fakes_stat_hihi3_In    0.0000e+00
+   fakes_stat_hihi4_In    0.0000e+00
+   fakes_stat_hihi5_In    0.0000e+00
+   fakes_stat_hihi6_In    0.0000e+00
+   fakes_stat_hihi7_In    0.0000e+00
+   fakes_stat_hihi8_In    0.0000e+00
+   fakes_stat_hihi9_In    0.0000e+00
+  fakes_stat_hilow10_In    0.0000e+00
+  fakes_stat_hilow11_In    0.0000e+00
+  fakes_stat_hilow12_In    0.0000e+00
+  fakes_stat_hilow13_In    0.0000e+00
+  fakes_stat_hilow14_In    0.0000e+00
+  fakes_stat_hilow15_In    0.0000e+00
+  fakes_stat_hilow16_In    0.0000e+00
+  fakes_stat_hilow17_In    0.0000e+00
+  fakes_stat_hilow18_In    0.0000e+00
+  fakes_stat_hilow19_In    0.0000e+00
+  fakes_stat_hilow1_In    0.0000e+00
+  fakes_stat_hilow20_In    0.0000e+00
+  fakes_stat_hilow21_In    0.0000e+00
+  fakes_stat_hilow22_In    0.0000e+00
+  fakes_stat_hilow23_In    0.0000e+00
+  fakes_stat_hilow24_In    0.0000e+00
+  fakes_stat_hilow25_In    0.0000e+00
+  fakes_stat_hilow26_In    0.0000e+00
+  fakes_stat_hilow2_In    0.0000e+00
+  fakes_stat_hilow3_In    0.0000e+00
+  fakes_stat_hilow4_In    0.0000e+00
+  fakes_stat_hilow5_In    0.0000e+00
+  fakes_stat_hilow6_In    0.0000e+00
+  fakes_stat_hilow7_In    0.0000e+00
+  fakes_stat_hilow8_In    0.0000e+00
+  fakes_stat_hilow9_In    0.0000e+00
+  fakes_stat_lowlow1_In    0.0000e+00
+  fakes_stat_lowlow2_In    0.0000e+00
+  fakes_stat_lowlow3_In    0.0000e+00
+  fakes_stat_lowlow4_In    0.0000e+00
+  fakes_stat_lowlow5_In    0.0000e+00
+  fakes_stat_lowlow6_In    0.0000e+00
+  fakes_stat_lowlow7_In    0.0000e+00
+  fakes_stat_lowlow8_In    0.0000e+00
+              flips_In    0.0000e+00
+  flips_stat_hihi10_In    0.0000e+00
+  flips_stat_hihi11_In    0.0000e+00
+  flips_stat_hihi12_In    0.0000e+00
+  flips_stat_hihi13_In    0.0000e+00
+  flips_stat_hihi14_In    0.0000e+00
+  flips_stat_hihi15_In    0.0000e+00
+  flips_stat_hihi16_In    0.0000e+00
+  flips_stat_hihi17_In    0.0000e+00
+  flips_stat_hihi18_In    0.0000e+00
+  flips_stat_hihi19_In    0.0000e+00
+   flips_stat_hihi1_In    0.0000e+00
+  flips_stat_hihi20_In    0.0000e+00
+  flips_stat_hihi21_In    0.0000e+00
+  flips_stat_hihi22_In    0.0000e+00
+  flips_stat_hihi23_In    0.0000e+00
+  flips_stat_hihi24_In    0.0000e+00
+  flips_stat_hihi25_In    0.0000e+00
+  flips_stat_hihi26_In    0.0000e+00
+  flips_stat_hihi27_In    0.0000e+00
+  flips_stat_hihi28_In    0.0000e+00
+  flips_stat_hihi29_In    0.0000e+00
+   flips_stat_hihi2_In    0.0000e+00
+  flips_stat_hihi30_In    0.0000e+00
+  flips_stat_hihi31_In    0.0000e+00
+  flips_stat_hihi32_In    0.0000e+00
+   flips_stat_hihi3_In    0.0000e+00
+   flips_stat_hihi4_In    0.0000e+00
+   flips_stat_hihi5_In    0.0000e+00
+   flips_stat_hihi6_In    0.0000e+00
+   flips_stat_hihi7_In    0.0000e+00
+   flips_stat_hihi8_In    0.0000e+00
+   flips_stat_hihi9_In    0.0000e+00
+  flips_stat_hilow10_In    0.0000e+00
+  flips_stat_hilow11_In    0.0000e+00
+  flips_stat_hilow12_In    0.0000e+00
+  flips_stat_hilow13_In    0.0000e+00
+  flips_stat_hilow14_In    0.0000e+00
+  flips_stat_hilow15_In    0.0000e+00
+  flips_stat_hilow16_In    0.0000e+00
+  flips_stat_hilow17_In    0.0000e+00
+  flips_stat_hilow18_In    0.0000e+00
+  flips_stat_hilow19_In    0.0000e+00
+  flips_stat_hilow1_In    0.0000e+00
+  flips_stat_hilow20_In    0.0000e+00
+  flips_stat_hilow21_In    0.0000e+00
+  flips_stat_hilow22_In    0.0000e+00
+  flips_stat_hilow23_In    0.0000e+00
+  flips_stat_hilow24_In    0.0000e+00
+  flips_stat_hilow25_In    0.0000e+00
+  flips_stat_hilow26_In    0.0000e+00
+  flips_stat_hilow2_In    0.0000e+00
+  flips_stat_hilow3_In    0.0000e+00
+  flips_stat_hilow4_In    0.0000e+00
+  flips_stat_hilow5_In    0.0000e+00
+  flips_stat_hilow6_In    0.0000e+00
+  flips_stat_hilow7_In    0.0000e+00
+  flips_stat_hilow8_In    0.0000e+00
+  flips_stat_hilow9_In    0.0000e+00
+  flips_stat_lowlow1_In    0.0000e+00
+  flips_stat_lowlow2_In    0.0000e+00
+  flips_stat_lowlow3_In    0.0000e+00
+  flips_stat_lowlow4_In    0.0000e+00
+  flips_stat_lowlow5_In    0.0000e+00
+  flips_stat_lowlow6_In    0.0000e+00
+  flips_stat_lowlow7_In    0.0000e+00
+  flips_stat_lowlow8_In    0.0000e+00
+          heavyFlav_In    0.0000e+00
+              hthlt_In    0.0000e+00
+             lephlt_In    0.0000e+00
+         leptonSFEl_In    0.0000e+00
+         leptonSFMu_In    0.0000e+00
+           leptonSF_In    0.0000e+00
+               lumi_In    0.0000e+00
+             lumiscale    9.7300e-01
+                     r    0.0000e+00
+              rares_In    0.0000e+00
+  rares_stat_hihi10_In    0.0000e+00
+  rares_stat_hihi11_In    0.0000e+00
+  rares_stat_hihi12_In    0.0000e+00
+  rares_stat_hihi13_In    0.0000e+00
+  rares_stat_hihi14_In    0.0000e+00
+  rares_stat_hihi15_In    0.0000e+00
+  rares_stat_hihi16_In    0.0000e+00
+  rares_stat_hihi17_In    0.0000e+00
+  rares_stat_hihi18_In    0.0000e+00
+  rares_stat_hihi19_In    0.0000e+00
+   rares_stat_hihi1_In    0.0000e+00
+  rares_stat_hihi20_In    0.0000e+00
+  rares_stat_hihi21_In    0.0000e+00
+  rares_stat_hihi22_In    0.0000e+00
+  rares_stat_hihi23_In    0.0000e+00
+  rares_stat_hihi24_In    0.0000e+00
+  rares_stat_hihi25_In    0.0000e+00
+  rares_stat_hihi26_In    0.0000e+00
+  rares_stat_hihi27_In    0.0000e+00
+  rares_stat_hihi28_In    0.0000e+00
+  rares_stat_hihi29_In    0.0000e+00
+   rares_stat_hihi2_In    0.0000e+00
+  rares_stat_hihi30_In    0.0000e+00
+  rares_stat_hihi31_In    0.0000e+00
+  rares_stat_hihi32_In    0.0000e+00
+   rares_stat_hihi3_In    0.0000e+00
+   rares_stat_hihi4_In    0.0000e+00
+   rares_stat_hihi5_In    0.0000e+00
+   rares_stat_hihi6_In    0.0000e+00
+   rares_stat_hihi7_In    0.0000e+00
+   rares_stat_hihi8_In    0.0000e+00
+   rares_stat_hihi9_In    0.0000e+00
+  rares_stat_hilow10_In    0.0000e+00
+  rares_stat_hilow11_In    0.0000e+00
+  rares_stat_hilow12_In    0.0000e+00
+  rares_stat_hilow13_In    0.0000e+00
+  rares_stat_hilow14_In    0.0000e+00
+  rares_stat_hilow15_In    0.0000e+00
+  rares_stat_hilow16_In    0.0000e+00
+  rares_stat_hilow17_In    0.0000e+00
+  rares_stat_hilow18_In    0.0000e+00
+  rares_stat_hilow19_In    0.0000e+00
+  rares_stat_hilow1_In    0.0000e+00
+  rares_stat_hilow20_In    0.0000e+00
+  rares_stat_hilow21_In    0.0000e+00
+  rares_stat_hilow22_In    0.0000e+00
+  rares_stat_hilow23_In    0.0000e+00
+  rares_stat_hilow24_In    0.0000e+00
+  rares_stat_hilow25_In    0.0000e+00
+  rares_stat_hilow26_In    0.0000e+00
+  rares_stat_hilow2_In    0.0000e+00
+  rares_stat_hilow3_In    0.0000e+00
+  rares_stat_hilow4_In    0.0000e+00
+  rares_stat_hilow5_In    0.0000e+00
+  rares_stat_hilow6_In    0.0000e+00
+  rares_stat_hilow7_In    0.0000e+00
+  rares_stat_hilow8_In    0.0000e+00
+  rares_stat_hilow9_In    0.0000e+00
+  rares_stat_lowlow1_In    0.0000e+00
+  rares_stat_lowlow2_In    0.0000e+00
+  rares_stat_lowlow3_In    0.0000e+00
+  rares_stat_lowlow4_In    0.0000e+00
+  rares_stat_lowlow5_In    0.0000e+00
+  rares_stat_lowlow6_In    0.0000e+00
+  rares_stat_lowlow7_In    0.0000e+00
+  rares_stat_lowlow8_In    0.0000e+00
+        ttGenerator_In    0.0000e+00
+          ttMEScale_In    0.0000e+00
+        ttttMEScale_In    0.0000e+00
+          tttt_norm_In    0.0000e+00
+   tttt_stat_hihi10_In    0.0000e+00
+   tttt_stat_hihi11_In    0.0000e+00
+   tttt_stat_hihi12_In    0.0000e+00
+   tttt_stat_hihi13_In    0.0000e+00
+   tttt_stat_hihi14_In    0.0000e+00
+   tttt_stat_hihi15_In    0.0000e+00
+   tttt_stat_hihi16_In    0.0000e+00
+   tttt_stat_hihi17_In    0.0000e+00
+   tttt_stat_hihi18_In    0.0000e+00
+   tttt_stat_hihi19_In    0.0000e+00
+    tttt_stat_hihi1_In    0.0000e+00
+   tttt_stat_hihi20_In    0.0000e+00
+   tttt_stat_hihi21_In    0.0000e+00
+   tttt_stat_hihi22_In    0.0000e+00
+   tttt_stat_hihi23_In    0.0000e+00
+   tttt_stat_hihi24_In    0.0000e+00
+   tttt_stat_hihi25_In    0.0000e+00
+   tttt_stat_hihi26_In    0.0000e+00
+   tttt_stat_hihi27_In    0.0000e+00
+   tttt_stat_hihi28_In    0.0000e+00
+   tttt_stat_hihi29_In    0.0000e+00
+    tttt_stat_hihi2_In    0.0000e+00
+   tttt_stat_hihi30_In    0.0000e+00
+   tttt_stat_hihi31_In    0.0000e+00
+   tttt_stat_hihi32_In    0.0000e+00
+    tttt_stat_hihi3_In    0.0000e+00
+    tttt_stat_hihi4_In    0.0000e+00
+    tttt_stat_hihi5_In    0.0000e+00
+    tttt_stat_hihi6_In    0.0000e+00
+    tttt_stat_hihi7_In    0.0000e+00
+    tttt_stat_hihi8_In    0.0000e+00
+    tttt_stat_hihi9_In    0.0000e+00
+  tttt_stat_hilow10_In    0.0000e+00
+  tttt_stat_hilow11_In    0.0000e+00
+  tttt_stat_hilow12_In    0.0000e+00
+  tttt_stat_hilow13_In    0.0000e+00
+  tttt_stat_hilow14_In    0.0000e+00
+  tttt_stat_hilow15_In    0.0000e+00
+  tttt_stat_hilow16_In    0.0000e+00
+  tttt_stat_hilow17_In    0.0000e+00
+  tttt_stat_hilow18_In    0.0000e+00
+  tttt_stat_hilow19_In    0.0000e+00
+   tttt_stat_hilow1_In    0.0000e+00
+  tttt_stat_hilow20_In    0.0000e+00
+  tttt_stat_hilow21_In    0.0000e+00
+  tttt_stat_hilow22_In    0.0000e+00
+  tttt_stat_hilow23_In    0.0000e+00
+  tttt_stat_hilow24_In    0.0000e+00
+  tttt_stat_hilow25_In    0.0000e+00
+  tttt_stat_hilow26_In    0.0000e+00
+   tttt_stat_hilow2_In    0.0000e+00
+   tttt_stat_hilow3_In    0.0000e+00
+   tttt_stat_hilow4_In    0.0000e+00
+   tttt_stat_hilow5_In    0.0000e+00
+   tttt_stat_hilow6_In    0.0000e+00
+   tttt_stat_hilow7_In    0.0000e+00
+   tttt_stat_hilow8_In    0.0000e+00
+   tttt_stat_hilow9_In    0.0000e+00
+  tttt_stat_lowlow1_In    0.0000e+00
+  tttt_stat_lowlow2_In    0.0000e+00
+  tttt_stat_lowlow3_In    0.0000e+00
+  tttt_stat_lowlow4_In    0.0000e+00
+  tttt_stat_lowlow5_In    0.0000e+00
+  tttt_stat_lowlow6_In    0.0000e+00
+  tttt_stat_lowlow7_In    0.0000e+00
+  tttt_stat_lowlow8_In    0.0000e+00
+       ttw_extr_hth_In    0.0000e+00
+       ttw_extr_htl_In    0.0000e+00
+        ttw_extr_ll_In    0.0000e+00
+    ttw_stat_hihi10_In    0.0000e+00
+    ttw_stat_hihi11_In    0.0000e+00
+    ttw_stat_hihi12_In    0.0000e+00
+    ttw_stat_hihi13_In    0.0000e+00
+    ttw_stat_hihi14_In    0.0000e+00
+    ttw_stat_hihi15_In    0.0000e+00
+    ttw_stat_hihi16_In    0.0000e+00
+    ttw_stat_hihi17_In    0.0000e+00
+    ttw_stat_hihi18_In    0.0000e+00
+    ttw_stat_hihi19_In    0.0000e+00
+     ttw_stat_hihi1_In    0.0000e+00
+    ttw_stat_hihi20_In    0.0000e+00
+    ttw_stat_hihi21_In    0.0000e+00
+    ttw_stat_hihi22_In    0.0000e+00
+    ttw_stat_hihi23_In    0.0000e+00
+    ttw_stat_hihi24_In    0.0000e+00
+    ttw_stat_hihi25_In    0.0000e+00
+    ttw_stat_hihi26_In    0.0000e+00
+    ttw_stat_hihi27_In    0.0000e+00
+    ttw_stat_hihi28_In    0.0000e+00
+    ttw_stat_hihi29_In    0.0000e+00
+     ttw_stat_hihi2_In    0.0000e+00
+    ttw_stat_hihi30_In    0.0000e+00
+    ttw_stat_hihi31_In    0.0000e+00
+    ttw_stat_hihi32_In    0.0000e+00
+     ttw_stat_hihi3_In    0.0000e+00
+     ttw_stat_hihi4_In    0.0000e+00
+     ttw_stat_hihi5_In    0.0000e+00
+     ttw_stat_hihi6_In    0.0000e+00
+     ttw_stat_hihi7_In    0.0000e+00
+     ttw_stat_hihi8_In    0.0000e+00
+     ttw_stat_hihi9_In    0.0000e+00
+   ttw_stat_hilow10_In    0.0000e+00
+   ttw_stat_hilow11_In    0.0000e+00
+   ttw_stat_hilow12_In    0.0000e+00
+   ttw_stat_hilow13_In    0.0000e+00
+   ttw_stat_hilow14_In    0.0000e+00
+   ttw_stat_hilow15_In    0.0000e+00
+   ttw_stat_hilow16_In    0.0000e+00
+   ttw_stat_hilow17_In    0.0000e+00
+   ttw_stat_hilow18_In    0.0000e+00
+   ttw_stat_hilow19_In    0.0000e+00
+    ttw_stat_hilow1_In    0.0000e+00
+   ttw_stat_hilow20_In    0.0000e+00
+   ttw_stat_hilow21_In    0.0000e+00
+   ttw_stat_hilow22_In    0.0000e+00
+   ttw_stat_hilow23_In    0.0000e+00
+   ttw_stat_hilow24_In    0.0000e+00
+   ttw_stat_hilow25_In    0.0000e+00
+   ttw_stat_hilow26_In    0.0000e+00
+    ttw_stat_hilow2_In    0.0000e+00
+    ttw_stat_hilow3_In    0.0000e+00
+    ttw_stat_hilow4_In    0.0000e+00
+    ttw_stat_hilow5_In    0.0000e+00
+    ttw_stat_hilow6_In    0.0000e+00
+    ttw_stat_hilow7_In    0.0000e+00
+    ttw_stat_hilow8_In    0.0000e+00
+    ttw_stat_hilow9_In    0.0000e+00
+   ttw_stat_lowlow1_In    0.0000e+00
+   ttw_stat_lowlow2_In    0.0000e+00
+   ttw_stat_lowlow3_In    0.0000e+00
+   ttw_stat_lowlow4_In    0.0000e+00
+   ttw_stat_lowlow5_In    0.0000e+00
+   ttw_stat_lowlow6_In    0.0000e+00
+   ttw_stat_lowlow7_In    0.0000e+00
+   ttw_stat_lowlow8_In    0.0000e+00
+      ttzh_extr_hth_In    0.0000e+00
+      ttzh_extr_htl_In    0.0000e+00
+       ttzh_extr_ll_In    0.0000e+00
+   ttzh_stat_hihi10_In    0.0000e+00
+   ttzh_stat_hihi11_In    0.0000e+00
+   ttzh_stat_hihi12_In    0.0000e+00
+   ttzh_stat_hihi13_In    0.0000e+00
+   ttzh_stat_hihi14_In    0.0000e+00
+   ttzh_stat_hihi15_In    0.0000e+00
+   ttzh_stat_hihi16_In    0.0000e+00
+   ttzh_stat_hihi17_In    0.0000e+00
+   ttzh_stat_hihi18_In    0.0000e+00
+   ttzh_stat_hihi19_In    0.0000e+00
+    ttzh_stat_hihi1_In    0.0000e+00
+   ttzh_stat_hihi20_In    0.0000e+00
+   ttzh_stat_hihi21_In    0.0000e+00
+   ttzh_stat_hihi22_In    0.0000e+00
+   ttzh_stat_hihi23_In    0.0000e+00
+   ttzh_stat_hihi24_In    0.0000e+00
+   ttzh_stat_hihi25_In    0.0000e+00
+   ttzh_stat_hihi26_In    0.0000e+00
+   ttzh_stat_hihi27_In    0.0000e+00
+   ttzh_stat_hihi28_In    0.0000e+00
+   ttzh_stat_hihi29_In    0.0000e+00
+    ttzh_stat_hihi2_In    0.0000e+00
+   ttzh_stat_hihi30_In    0.0000e+00
+   ttzh_stat_hihi31_In    0.0000e+00
+   ttzh_stat_hihi32_In    0.0000e+00
+    ttzh_stat_hihi3_In    0.0000e+00
+    ttzh_stat_hihi4_In    0.0000e+00
+    ttzh_stat_hihi5_In    0.0000e+00
+    ttzh_stat_hihi6_In    0.0000e+00
+    ttzh_stat_hihi7_In    0.0000e+00
+    ttzh_stat_hihi8_In    0.0000e+00
+    ttzh_stat_hihi9_In    0.0000e+00
+  ttzh_stat_hilow10_In    0.0000e+00
+  ttzh_stat_hilow11_In    0.0000e+00
+  ttzh_stat_hilow12_In    0.0000e+00
+  ttzh_stat_hilow13_In    0.0000e+00
+  ttzh_stat_hilow14_In    0.0000e+00
+  ttzh_stat_hilow15_In    0.0000e+00
+  ttzh_stat_hilow16_In    0.0000e+00
+  ttzh_stat_hilow17_In    0.0000e+00
+  ttzh_stat_hilow18_In    0.0000e+00
+  ttzh_stat_hilow19_In    0.0000e+00
+   ttzh_stat_hilow1_In    0.0000e+00
+  ttzh_stat_hilow20_In    0.0000e+00
+  ttzh_stat_hilow21_In    0.0000e+00
+  ttzh_stat_hilow22_In    0.0000e+00
+  ttzh_stat_hilow23_In    0.0000e+00
+  ttzh_stat_hilow24_In    0.0000e+00
+  ttzh_stat_hilow25_In    0.0000e+00
+  ttzh_stat_hilow26_In    0.0000e+00
+   ttzh_stat_hilow2_In    0.0000e+00
+   ttzh_stat_hilow3_In    0.0000e+00
+   ttzh_stat_hilow4_In    0.0000e+00
+   ttzh_stat_hilow5_In    0.0000e+00
+   ttzh_stat_hilow6_In    0.0000e+00
+   ttzh_stat_hilow7_In    0.0000e+00
+   ttzh_stat_hilow8_In    0.0000e+00
+   ttzh_stat_hilow9_In    0.0000e+00
+  ttzh_stat_lowlow1_In    0.0000e+00
+  ttzh_stat_lowlow2_In    0.0000e+00
+  ttzh_stat_lowlow3_In    0.0000e+00
+  ttzh_stat_lowlow4_In    0.0000e+00
+  ttzh_stat_lowlow5_In    0.0000e+00
+  ttzh_stat_lowlow6_In    0.0000e+00
+  ttzh_stat_lowlow7_In    0.0000e+00
+  ttzh_stat_lowlow8_In    0.0000e+00
+     ww_stat_hihi10_In    0.0000e+00
+     ww_stat_hihi11_In    0.0000e+00
+     ww_stat_hihi12_In    0.0000e+00
+     ww_stat_hihi13_In    0.0000e+00
+     ww_stat_hihi14_In    0.0000e+00
+     ww_stat_hihi15_In    0.0000e+00
+     ww_stat_hihi16_In    0.0000e+00
+     ww_stat_hihi17_In    0.0000e+00
+     ww_stat_hihi18_In    0.0000e+00
+     ww_stat_hihi19_In    0.0000e+00
+      ww_stat_hihi1_In    0.0000e+00
+     ww_stat_hihi20_In    0.0000e+00
+     ww_stat_hihi21_In    0.0000e+00
+     ww_stat_hihi22_In    0.0000e+00
+     ww_stat_hihi23_In    0.0000e+00
+     ww_stat_hihi24_In    0.0000e+00
+     ww_stat_hihi25_In    0.0000e+00
+     ww_stat_hihi26_In    0.0000e+00
+     ww_stat_hihi27_In    0.0000e+00
+     ww_stat_hihi28_In    0.0000e+00
+     ww_stat_hihi29_In    0.0000e+00
+      ww_stat_hihi2_In    0.0000e+00
+     ww_stat_hihi30_In    0.0000e+00
+     ww_stat_hihi31_In    0.0000e+00
+     ww_stat_hihi32_In    0.0000e+00
+      ww_stat_hihi3_In    0.0000e+00
+      ww_stat_hihi4_In    0.0000e+00
+      ww_stat_hihi5_In    0.0000e+00
+      ww_stat_hihi6_In    0.0000e+00
+      ww_stat_hihi7_In    0.0000e+00
+      ww_stat_hihi8_In    0.0000e+00
+      ww_stat_hihi9_In    0.0000e+00
+    ww_stat_hilow10_In    0.0000e+00
+    ww_stat_hilow11_In    0.0000e+00
+    ww_stat_hilow12_In    0.0000e+00
+    ww_stat_hilow13_In    0.0000e+00
+    ww_stat_hilow14_In    0.0000e+00
+    ww_stat_hilow15_In    0.0000e+00
+    ww_stat_hilow16_In    0.0000e+00
+    ww_stat_hilow17_In    0.0000e+00
+    ww_stat_hilow18_In    0.0000e+00
+    ww_stat_hilow19_In    0.0000e+00
+     ww_stat_hilow1_In    0.0000e+00
+    ww_stat_hilow20_In    0.0000e+00
+    ww_stat_hilow21_In    0.0000e+00
+    ww_stat_hilow22_In    0.0000e+00
+    ww_stat_hilow23_In    0.0000e+00
+    ww_stat_hilow24_In    0.0000e+00
+    ww_stat_hilow25_In    0.0000e+00
+    ww_stat_hilow26_In    0.0000e+00
+     ww_stat_hilow2_In    0.0000e+00
+     ww_stat_hilow3_In    0.0000e+00
+     ww_stat_hilow4_In    0.0000e+00
+     ww_stat_hilow5_In    0.0000e+00
+     ww_stat_hilow6_In    0.0000e+00
+     ww_stat_hilow7_In    0.0000e+00
+     ww_stat_hilow8_In    0.0000e+00
+     ww_stat_hilow9_In    0.0000e+00
+    ww_stat_lowlow1_In    0.0000e+00
+    ww_stat_lowlow2_In    0.0000e+00
+    ww_stat_lowlow3_In    0.0000e+00
+    ww_stat_lowlow4_In    0.0000e+00
+    ww_stat_lowlow5_In    0.0000e+00
+    ww_stat_lowlow6_In    0.0000e+00
+    ww_stat_lowlow7_In    0.0000e+00
+    ww_stat_lowlow8_In    0.0000e+00
+     wz_stat_hihi10_In    0.0000e+00
+     wz_stat_hihi11_In    0.0000e+00
+     wz_stat_hihi12_In    0.0000e+00
+     wz_stat_hihi13_In    0.0000e+00
+     wz_stat_hihi14_In    0.0000e+00
+     wz_stat_hihi15_In    0.0000e+00
+     wz_stat_hihi16_In    0.0000e+00
+     wz_stat_hihi17_In    0.0000e+00
+     wz_stat_hihi18_In    0.0000e+00
+     wz_stat_hihi19_In    0.0000e+00
+      wz_stat_hihi1_In    0.0000e+00
+     wz_stat_hihi20_In    0.0000e+00
+     wz_stat_hihi21_In    0.0000e+00
+     wz_stat_hihi22_In    0.0000e+00
+     wz_stat_hihi23_In    0.0000e+00
+     wz_stat_hihi24_In    0.0000e+00
+     wz_stat_hihi25_In    0.0000e+00
+     wz_stat_hihi26_In    0.0000e+00
+     wz_stat_hihi27_In    0.0000e+00
+     wz_stat_hihi28_In    0.0000e+00
+     wz_stat_hihi29_In    0.0000e+00
+      wz_stat_hihi2_In    0.0000e+00
+     wz_stat_hihi30_In    0.0000e+00
+     wz_stat_hihi31_In    0.0000e+00
+     wz_stat_hihi32_In    0.0000e+00
+      wz_stat_hihi3_In    0.0000e+00
+      wz_stat_hihi4_In    0.0000e+00
+      wz_stat_hihi5_In    0.0000e+00
+      wz_stat_hihi6_In    0.0000e+00
+      wz_stat_hihi7_In    0.0000e+00
+      wz_stat_hihi8_In    0.0000e+00
+      wz_stat_hihi9_In    0.0000e+00
+    wz_stat_hilow10_In    0.0000e+00
+    wz_stat_hilow11_In    0.0000e+00
+    wz_stat_hilow12_In    0.0000e+00
+    wz_stat_hilow13_In    0.0000e+00
+    wz_stat_hilow14_In    0.0000e+00
+    wz_stat_hilow15_In    0.0000e+00
+    wz_stat_hilow16_In    0.0000e+00
+    wz_stat_hilow17_In    0.0000e+00
+    wz_stat_hilow18_In    0.0000e+00
+    wz_stat_hilow19_In    0.0000e+00
+     wz_stat_hilow1_In    0.0000e+00
+    wz_stat_hilow20_In    0.0000e+00
+    wz_stat_hilow21_In    0.0000e+00
+    wz_stat_hilow22_In    0.0000e+00
+    wz_stat_hilow23_In    0.0000e+00
+    wz_stat_hilow24_In    0.0000e+00
+    wz_stat_hilow25_In    0.0000e+00
+    wz_stat_hilow26_In    0.0000e+00
+     wz_stat_hilow2_In    0.0000e+00
+     wz_stat_hilow3_In    0.0000e+00
+     wz_stat_hilow4_In    0.0000e+00
+     wz_stat_hilow5_In    0.0000e+00
+     wz_stat_hilow6_In    0.0000e+00
+     wz_stat_hilow7_In    0.0000e+00
+     wz_stat_hilow8_In    0.0000e+00
+     wz_stat_hilow9_In    0.0000e+00
+    wz_stat_lowlow1_In    0.0000e+00
+    wz_stat_lowlow2_In    0.0000e+00
+    wz_stat_lowlow3_In    0.0000e+00
+    wz_stat_lowlow4_In    0.0000e+00
+    wz_stat_lowlow5_In    0.0000e+00
+    wz_stat_lowlow6_In    0.0000e+00
+    wz_stat_lowlow7_In    0.0000e+00
+    wz_stat_lowlow8_In    0.0000e+00
+     xg_stat_hihi10_In    0.0000e+00
+     xg_stat_hihi11_In    0.0000e+00
+     xg_stat_hihi12_In    0.0000e+00
+     xg_stat_hihi13_In    0.0000e+00
+     xg_stat_hihi14_In    0.0000e+00
+     xg_stat_hihi15_In    0.0000e+00
+     xg_stat_hihi16_In    0.0000e+00
+     xg_stat_hihi17_In    0.0000e+00
+     xg_stat_hihi18_In    0.0000e+00
+     xg_stat_hihi19_In    0.0000e+00
+      xg_stat_hihi1_In    0.0000e+00
+     xg_stat_hihi20_In    0.0000e+00
+     xg_stat_hihi21_In    0.0000e+00
+     xg_stat_hihi22_In    0.0000e+00
+     xg_stat_hihi23_In    0.0000e+00
+     xg_stat_hihi24_In    0.0000e+00
+     xg_stat_hihi25_In    0.0000e+00
+     xg_stat_hihi26_In    0.0000e+00
+     xg_stat_hihi27_In    0.0000e+00
+     xg_stat_hihi28_In    0.0000e+00
+     xg_stat_hihi29_In    0.0000e+00
+      xg_stat_hihi2_In    0.0000e+00
+     xg_stat_hihi30_In    0.0000e+00
+     xg_stat_hihi31_In    0.0000e+00
+     xg_stat_hihi32_In    0.0000e+00
+      xg_stat_hihi3_In    0.0000e+00
+      xg_stat_hihi4_In    0.0000e+00
+      xg_stat_hihi5_In    0.0000e+00
+      xg_stat_hihi6_In    0.0000e+00
+      xg_stat_hihi7_In    0.0000e+00
+      xg_stat_hihi8_In    0.0000e+00
+      xg_stat_hihi9_In    0.0000e+00
+    xg_stat_hilow10_In    0.0000e+00
+    xg_stat_hilow11_In    0.0000e+00
+    xg_stat_hilow12_In    0.0000e+00
+    xg_stat_hilow13_In    0.0000e+00
+    xg_stat_hilow14_In    0.0000e+00
+    xg_stat_hilow15_In    0.0000e+00
+    xg_stat_hilow16_In    0.0000e+00
+    xg_stat_hilow17_In    0.0000e+00
+    xg_stat_hilow18_In    0.0000e+00
+    xg_stat_hilow19_In    0.0000e+00
+     xg_stat_hilow1_In    0.0000e+00
+    xg_stat_hilow20_In    0.0000e+00
+    xg_stat_hilow21_In    0.0000e+00
+    xg_stat_hilow22_In    0.0000e+00
+    xg_stat_hilow23_In    0.0000e+00
+    xg_stat_hilow24_In    0.0000e+00
+    xg_stat_hilow25_In    0.0000e+00
+    xg_stat_hilow26_In    0.0000e+00
+     xg_stat_hilow2_In    0.0000e+00
+     xg_stat_hilow3_In    0.0000e+00
+     xg_stat_hilow4_In    0.0000e+00
+     xg_stat_hilow5_In    0.0000e+00
+     xg_stat_hilow6_In    0.0000e+00
+     xg_stat_hilow7_In    0.0000e+00
+     xg_stat_hilow8_In    0.0000e+00
+     xg_stat_hilow9_In    0.0000e+00
+    xg_stat_lowlow1_In    0.0000e+00
+    xg_stat_lowlow2_In    0.0000e+00
+    xg_stat_lowlow3_In    0.0000e+00
+    xg_stat_lowlow4_In    0.0000e+00
+    xg_stat_lowlow5_In    0.0000e+00
+    xg_stat_lowlow6_In    0.0000e+00
+    xg_stat_lowlow7_In    0.0000e+00
+    xg_stat_lowlow8_In    0.0000e+00
+
+    Floating Parameter  InitialValue    FinalValue +/-  Error     GblCorr.
+  --------------------  ------------  --------------------------  --------
+               EW_norm    0.0000e+00    0.0000e+00 +/-  1.00e+00  <none>
+                   JER    0.0000e+00    0.0000e+00 +/-  8.82e-01  <none>
+                   JES    0.0000e+00    0.0000e+00 +/-  4.48e-01  <none>
+                    PU    0.0000e+00    0.0000e+00 +/-  9.35e-01  <none>
+            ST_tW_norm    0.0000e+00    0.0000e+00 +/-  1.05e+00  <none>
+                ScaleH    0.0000e+00    0.0000e+00 +/-  1.30e-01  <none>
+           TTJets_norm    0.0000e+00    0.0000e+00 +/-  1.06e+00  <none>
+                   TTW    0.0000e+00    0.0000e+00 +/-  9.76e-01  <none>
+                  TTZH    0.0000e+00    0.0000e+00 +/-  1.00e+00  <none>
+                    WW    0.0000e+00    0.0000e+00 +/-  9.81e-01  <none>
+                    WZ    0.0000e+00    0.0000e+00 +/-  9.28e-01  <none>
+                    XG    0.0000e+00    0.0000e+00 +/-  9.46e-01  <none>
+                 bshlt    0.0000e+00    0.0000e+00 +/-  1.01e+00  <none>
+                  btag    0.0000e+00    0.0000e+00 +/-  9.94e-01  <none>
+   btagWeightCSVCFErr1    0.0000e+00    0.0000e+00 +/-  6.43e-01  <none>
+   btagWeightCSVCFErr2    0.0000e+00    0.0000e+00 +/-  8.95e-01  <none>
+       btagWeightCSVHF    0.0000e+00    0.0000e+00 +/-  1.33e+00  <none>
+  btagWeightCSVHFStats1    0.0000e+00    0.0000e+00 +/-  9.81e-01  <none>
+  btagWeightCSVHFStats2    0.0000e+00    0.0000e+00 +/-  9.45e-01  <none>
+       btagWeightCSVLF    0.0000e+00    0.0000e+00 +/-  9.19e-01  <none>
+  btagWeightCSVLFStats1    0.0000e+00    0.0000e+00 +/-  1.04e+00  <none>
+  btagWeightCSVLFStats2    0.0000e+00    0.0000e+00 +/-  9.53e-01  <none>
+                 fakes    0.0000e+00    0.0000e+00 +/-  6.17e-01  <none>
+             fakes_EWK    0.0000e+00    0.0000e+00 +/-  8.61e-01  <none>
+      fakes_stat_hihi1    0.0000e+00    0.0000e+00 +/-  9.68e-01  <none>
+     fakes_stat_hihi10    0.0000e+00    0.0000e+00 +/-  9.93e-01  <none>
+     fakes_stat_hihi11    0.0000e+00    0.0000e+00 +/-  8.90e-01  <none>
+     fakes_stat_hihi12    0.0000e+00    0.0000e+00 +/-  9.88e-01  <none>
+     fakes_stat_hihi13    0.0000e+00    0.0000e+00 +/-  9.95e-01  <none>
+     fakes_stat_hihi14    0.0000e+00    0.0000e+00 +/-  9.78e-01  <none>
+     fakes_stat_hihi15    0.0000e+00    0.0000e+00 +/-  1.01e+00  <none>
+     fakes_stat_hihi16    0.0000e+00    0.0000e+00 +/-  1.01e+00  <none>
+     fakes_stat_hihi17    0.0000e+00    0.0000e+00 +/-  9.77e-01  <none>
+     fakes_stat_hihi18    0.0000e+00    0.0000e+00 +/-  9.79e-01  <none>
+     fakes_stat_hihi19    0.0000e+00    0.0000e+00 +/-  9.95e-01  <none>
+      fakes_stat_hihi2    0.0000e+00    0.0000e+00 +/-  9.95e-01  <none>
+     fakes_stat_hihi20    0.0000e+00    0.0000e+00 +/-  9.94e-01  <none>
+     fakes_stat_hihi21    0.0000e+00    0.0000e+00 +/-  1.01e+00  <none>
+     fakes_stat_hihi22    0.0000e+00    0.0000e+00 +/-  1.00e+00  <none>
+     fakes_stat_hihi23    0.0000e+00    0.0000e+00 +/-  9.95e-01  <none>
+     fakes_stat_hihi24    0.0000e+00    0.0000e+00 +/-  9.94e-01  <none>
+     fakes_stat_hihi25    0.0000e+00    0.0000e+00 +/-  1.00e+00  <none>
+     fakes_stat_hihi26    0.0000e+00    0.0000e+00 +/-  9.91e-01  <none>
+     fakes_stat_hihi27    0.0000e+00    0.0000e+00 +/-  9.94e-01  <none>
+     fakes_stat_hihi28    0.0000e+00    0.0000e+00 +/-  1.00e+00  <none>
+     fakes_stat_hihi29    0.0000e+00    0.0000e+00 +/-  9.94e-01  <none>
+      fakes_stat_hihi3    0.0000e+00    0.0000e+00 +/-  1.06e+00  <none>
+     fakes_stat_hihi30    0.0000e+00    0.0000e+00 +/-  9.95e-01  <none>
+     fakes_stat_hihi31    0.0000e+00    0.0000e+00 +/-  1.01e+00  <none>
+     fakes_stat_hihi32    0.0000e+00    0.0000e+00 +/-  9.88e-01  <none>
+      fakes_stat_hihi4    0.0000e+00    0.0000e+00 +/-  9.96e-01  <none>
+      fakes_stat_hihi5    0.0000e+00    0.0000e+00 +/-  9.91e-01  <none>
+      fakes_stat_hihi6    0.0000e+00    0.0000e+00 +/-  1.00e+00  <none>
+      fakes_stat_hihi7    0.0000e+00    0.0000e+00 +/-  9.75e-01  <none>
+      fakes_stat_hihi8    0.0000e+00    0.0000e+00 +/-  1.01e+00  <none>
+      fakes_stat_hihi9    0.0000e+00    0.0000e+00 +/-  9.44e-01  <none>
+     fakes_stat_hilow1    0.0000e+00    0.0000e+00 +/-  9.22e-01  <none>
+    fakes_stat_hilow10    0.0000e+00    0.0000e+00 +/-  8.86e-01  <none>
+    fakes_stat_hilow11    0.0000e+00    0.0000e+00 +/-  9.09e-01  <none>
+    fakes_stat_hilow12    0.0000e+00    0.0000e+00 +/-  9.88e-01  <none>
+    fakes_stat_hilow13    0.0000e+00    0.0000e+00 +/-  8.99e-01  <none>
+    fakes_stat_hilow14    0.0000e+00    0.0000e+00 +/-  9.29e-01  <none>
+    fakes_stat_hilow15    0.0000e+00    0.0000e+00 +/-  1.00e+00  <none>
+    fakes_stat_hilow16    0.0000e+00    0.0000e+00 +/-  1.01e+00  <none>
+    fakes_stat_hilow17    0.0000e+00    0.0000e+00 +/-  9.70e-01  <none>
+    fakes_stat_hilow18    0.0000e+00    0.0000e+00 +/-  1.05e+00  <none>
+    fakes_stat_hilow19    0.0000e+00    0.0000e+00 +/-  1.01e+00  <none>
+     fakes_stat_hilow2    0.0000e+00    0.0000e+00 +/-  9.31e-01  <none>
+    fakes_stat_hilow20    0.0000e+00    0.0000e+00 +/-  1.02e+00  <none>
+    fakes_stat_hilow21    0.0000e+00    0.0000e+00 +/-  9.94e-01  <none>
+    fakes_stat_hilow22    0.0000e+00    0.0000e+00 +/-  1.05e+00  <none>
+    fakes_stat_hilow23    0.0000e+00    0.0000e+00 +/-  9.94e-01  <none>
+    fakes_stat_hilow24    0.0000e+00    0.0000e+00 +/-  9.57e-01  <none>
+    fakes_stat_hilow25    0.0000e+00    0.0000e+00 +/-  9.84e-01  <none>
+    fakes_stat_hilow26    0.0000e+00    0.0000e+00 +/-  9.78e-01  <none>
+     fakes_stat_hilow3    0.0000e+00    0.0000e+00 +/-  9.77e-01  <none>
+     fakes_stat_hilow4    0.0000e+00    0.0000e+00 +/-  9.63e-01  <none>
+     fakes_stat_hilow5    0.0000e+00    0.0000e+00 +/-  9.78e-01  <none>
+     fakes_stat_hilow6    0.0000e+00    0.0000e+00 +/-  1.01e+00  <none>
+     fakes_stat_hilow7    0.0000e+00    0.0000e+00 +/-  8.95e-01  <none>
+     fakes_stat_hilow8    0.0000e+00    0.0000e+00 +/-  9.21e-01  <none>
+     fakes_stat_hilow9    0.0000e+00    0.0000e+00 +/-  9.61e-01  <none>
+    fakes_stat_lowlow1    0.0000e+00    0.0000e+00 +/-  9.09e-01  <none>
+    fakes_stat_lowlow2    0.0000e+00    0.0000e+00 +/-  1.00e+00  <none>
+    fakes_stat_lowlow3    0.0000e+00    0.0000e+00 +/-  9.64e-01  <none>
+    fakes_stat_lowlow4    0.0000e+00    0.0000e+00 +/-  1.00e+00  <none>
+    fakes_stat_lowlow5    0.0000e+00    0.0000e+00 +/-  1.07e+00  <none>
+    fakes_stat_lowlow6    0.0000e+00    0.0000e+00 +/-  1.00e+00  <none>
+    fakes_stat_lowlow7    0.0000e+00    0.0000e+00 +/-  9.95e-01  <none>
+    fakes_stat_lowlow8    0.0000e+00    0.0000e+00 +/-  9.61e-01  <none>
+                 flips    0.0000e+00    0.0000e+00 +/-  1.00e+00  <none>
+      flips_stat_hihi1    0.0000e+00    0.0000e+00 +/-  9.94e-01  <none>
+     flips_stat_hihi10    0.0000e+00    0.0000e+00 +/-  9.95e-01  <none>
+     flips_stat_hihi11    0.0000e+00    0.0000e+00 +/-  1.00e+00  <none>
+     flips_stat_hihi12    0.0000e+00    0.0000e+00 +/-  1.00e+00  <none>
+     flips_stat_hihi13    0.0000e+00    0.0000e+00 +/-  1.00e+00  <none>
+     flips_stat_hihi14    0.0000e+00    0.0000e+00 +/-  9.95e-01  <none>
+     flips_stat_hihi15    0.0000e+00    0.0000e+00 +/-  1.01e+00  <none>
+     flips_stat_hihi16    0.0000e+00    0.0000e+00 +/-  1.00e+00  <none>
+     flips_stat_hihi17    0.0000e+00    0.0000e+00 +/-  1.00e+00  <none>
+     flips_stat_hihi18    0.0000e+00    0.0000e+00 +/-  9.94e-01  <none>
+     flips_stat_hihi19    0.0000e+00    0.0000e+00 +/-  1.00e+00  <none>
+      flips_stat_hihi2    0.0000e+00    0.0000e+00 +/-  9.94e-01  <none>
+     flips_stat_hihi20    0.0000e+00    0.0000e+00 +/-  1.01e+00  <none>
+     flips_stat_hihi21    0.0000e+00    0.0000e+00 +/-  1.01e+00  <none>
+     flips_stat_hihi22    0.0000e+00    0.0000e+00 +/-  1.00e+00  <none>
+     flips_stat_hihi23    0.0000e+00    0.0000e+00 +/-  1.01e+00  <none>
+     flips_stat_hihi24    0.0000e+00    0.0000e+00 +/-  1.00e+00  <none>
+     flips_stat_hihi25    0.0000e+00    0.0000e+00 +/-  9.95e-01  <none>
+     flips_stat_hihi26    0.0000e+00    0.0000e+00 +/-  1.01e+00  <none>
+     flips_stat_hihi27    0.0000e+00    0.0000e+00 +/-  9.94e-01  <none>
+     flips_stat_hihi28    0.0000e+00    0.0000e+00 +/-  1.00e+00  <none>
+     flips_stat_hihi29    0.0000e+00    0.0000e+00 +/-  1.00e+00  <none>
+      flips_stat_hihi3    0.0000e+00    0.0000e+00 +/-  1.00e+00  <none>
+     flips_stat_hihi30    0.0000e+00    0.0000e+00 +/-  1.00e+00  <none>
+     flips_stat_hihi31    0.0000e+00    0.0000e+00 +/-  1.00e+00  <none>
+     flips_stat_hihi32    0.0000e+00    0.0000e+00 +/-  9.94e-01  <none>
+      flips_stat_hihi4    0.0000e+00    0.0000e+00 +/-  1.00e+00  <none>
+      flips_stat_hihi5    0.0000e+00    0.0000e+00 +/-  9.95e-01  <none>
+      flips_stat_hihi6    0.0000e+00    0.0000e+00 +/-  1.00e+00  <none>
+      flips_stat_hihi7    0.0000e+00    0.0000e+00 +/-  1.00e+00  <none>
+      flips_stat_hihi8    0.0000e+00    0.0000e+00 +/-  1.00e+00  <none>
+      flips_stat_hihi9    0.0000e+00    0.0000e+00 +/-  9.94e-01  <none>
+     flips_stat_hilow1    0.0000e+00    0.0000e+00 +/-  1.01e+00  <none>
+    flips_stat_hilow10    0.0000e+00    0.0000e+00 +/-  9.94e-01  <none>
+    flips_stat_hilow11    0.0000e+00    0.0000e+00 +/-  1.00e+00  <none>
+    flips_stat_hilow12    0.0000e+00    0.0000e+00 +/-  9.94e-01  <none>
+    flips_stat_hilow13    0.0000e+00    0.0000e+00 +/-  1.01e+00  <none>
+    flips_stat_hilow14    0.0000e+00    0.0000e+00 +/-  1.01e+00  <none>
+    flips_stat_hilow15    0.0000e+00    0.0000e+00 +/-  9.95e-01  <none>
+    flips_stat_hilow16    0.0000e+00    0.0000e+00 +/-  9.94e-01  <none>
+    flips_stat_hilow17    0.0000e+00    0.0000e+00 +/-  9.94e-01  <none>
+    flips_stat_hilow18    0.0000e+00    0.0000e+00 +/-  1.01e+00  <none>
+    flips_stat_hilow19    0.0000e+00    0.0000e+00 +/-  1.01e+00  <none>
+     flips_stat_hilow2    0.0000e+00    0.0000e+00 +/-  1.00e+00  <none>
+    flips_stat_hilow20    0.0000e+00    0.0000e+00 +/-  1.00e+00  <none>
+    flips_stat_hilow21    0.0000e+00    0.0000e+00 +/-  9.94e-01  <none>
+    flips_stat_hilow22    0.0000e+00    0.0000e+00 +/-  9.94e-01  <none>
+    flips_stat_hilow23    0.0000e+00    0.0000e+00 +/-  9.95e-01  <none>
+    flips_stat_hilow24    0.0000e+00    0.0000e+00 +/-  1.01e+00  <none>
+    flips_stat_hilow25    0.0000e+00    0.0000e+00 +/-  1.00e+00  <none>
+    flips_stat_hilow26    0.0000e+00    0.0000e+00 +/-  1.00e+00  <none>
+     flips_stat_hilow3    0.0000e+00    0.0000e+00 +/-  9.95e-01  <none>
+     flips_stat_hilow4    0.0000e+00    0.0000e+00 +/-  1.01e+00  <none>
+     flips_stat_hilow5    0.0000e+00    0.0000e+00 +/-  1.00e+00  <none>
+     flips_stat_hilow6    0.0000e+00    0.0000e+00 +/-  9.94e-01  <none>
+     flips_stat_hilow7    0.0000e+00    0.0000e+00 +/-  1.00e+00  <none>
+     flips_stat_hilow8    0.0000e+00    0.0000e+00 +/-  1.00e+00  <none>
+     flips_stat_hilow9    0.0000e+00    0.0000e+00 +/-  9.95e-01  <none>
+    flips_stat_lowlow1    0.0000e+00    0.0000e+00 +/-  1.00e+00  <none>
+    flips_stat_lowlow2    0.0000e+00    0.0000e+00 +/-  1.00e+00  <none>
+    flips_stat_lowlow3    0.0000e+00    0.0000e+00 +/-  9.95e-01  <none>
+    flips_stat_lowlow4    0.0000e+00    0.0000e+00 +/-  1.00e+00  <none>
+    flips_stat_lowlow5    0.0000e+00    0.0000e+00 +/-  9.95e-01  <none>
+    flips_stat_lowlow6    0.0000e+00    0.0000e+00 +/-  1.00e+00  <none>
+    flips_stat_lowlow7    0.0000e+00    0.0000e+00 +/-  9.94e-01  <none>
+    flips_stat_lowlow8    0.0000e+00    0.0000e+00 +/-  9.94e-01  <none>
+             heavyFlav    0.0000e+00    0.0000e+00 +/-  2.99e-01  <none>
+                 hthlt    0.0000e+00    0.0000e+00 +/-  9.92e-01  <none>
+                lephlt    0.0000e+00    0.0000e+00 +/-  9.92e-01  <none>
+              leptonSF    0.0000e+00    0.0000e+00 +/-  1.14e+00  <none>
+            leptonSFEl    0.0000e+00    0.0000e+00 +/-  5.62e-01  <none>
+            leptonSFMu    0.0000e+00    0.0000e+00 +/-  9.66e-01  <none>
+                  lumi    0.0000e+00    0.0000e+00 +/-  9.98e-01  <none>
+                 rares    0.0000e+00    0.0000e+00 +/-  9.95e-01  <none>
+      rares_stat_hihi1    0.0000e+00    0.0000e+00 +/-  9.95e-01  <none>
+     rares_stat_hihi10    0.0000e+00    0.0000e+00 +/-  9.94e-01  <none>
+     rares_stat_hihi11    0.0000e+00    0.0000e+00 +/-  9.95e-01  <none>
+     rares_stat_hihi12    0.0000e+00    0.0000e+00 +/-  1.00e+00  <none>
+     rares_stat_hihi13    0.0000e+00    0.0000e+00 +/-  1.01e+00  <none>
+     rares_stat_hihi14    0.0000e+00    0.0000e+00 +/-  9.95e-01  <none>
+     rares_stat_hihi15    0.0000e+00    0.0000e+00 +/-  1.00e+00  <none>
+     rares_stat_hihi16    0.0000e+00    0.0000e+00 +/-  1.00e+00  <none>
+     rares_stat_hihi17    0.0000e+00    0.0000e+00 +/-  9.95e-01  <none>
+     rares_stat_hihi18    0.0000e+00    0.0000e+00 +/-  9.94e-01  <none>
+     rares_stat_hihi19    0.0000e+00    0.0000e+00 +/-  1.00e+00  <none>
+      rares_stat_hihi2    0.0000e+00    0.0000e+00 +/-  1.00e+00  <none>
+     rares_stat_hihi20    0.0000e+00    0.0000e+00 +/-  1.01e+00  <none>
+     rares_stat_hihi21    0.0000e+00    0.0000e+00 +/-  1.00e+00  <none>
+     rares_stat_hihi22    0.0000e+00    0.0000e+00 +/-  9.94e-01  <none>
+     rares_stat_hihi23    0.0000e+00    0.0000e+00 +/-  1.00e+00  <none>
+     rares_stat_hihi24    0.0000e+00    0.0000e+00 +/-  1.00e+00  <none>
+     rares_stat_hihi25    0.0000e+00    0.0000e+00 +/-  1.00e+00  <none>
+     rares_stat_hihi26    0.0000e+00    0.0000e+00 +/-  1.00e+00  <none>
+     rares_stat_hihi27    0.0000e+00    0.0000e+00 +/-  9.94e-01  <none>
+     rares_stat_hihi28    0.0000e+00    0.0000e+00 +/-  9.95e-01  <none>
+     rares_stat_hihi29    0.0000e+00    0.0000e+00 +/-  9.94e-01  <none>
+      rares_stat_hihi3    0.0000e+00    0.0000e+00 +/-  1.01e+00  <none>
+     rares_stat_hihi30    0.0000e+00    0.0000e+00 +/-  9.94e-01  <none>
+     rares_stat_hihi31    0.0000e+00    0.0000e+00 +/-  1.00e+00  <none>
+     rares_stat_hihi32    0.0000e+00    0.0000e+00 +/-  9.94e-01  <none>
+      rares_stat_hihi4    0.0000e+00    0.0000e+00 +/-  9.94e-01  <none>
+      rares_stat_hihi5    0.0000e+00    0.0000e+00 +/-  9.95e-01  <none>
+      rares_stat_hihi6    0.0000e+00    0.0000e+00 +/-  1.00e+00  <none>
+      rares_stat_hihi7    0.0000e+00    0.0000e+00 +/-  9.95e-01  <none>
+      rares_stat_hihi8    0.0000e+00    0.0000e+00 +/-  9.94e-01  <none>
+      rares_stat_hihi9    0.0000e+00    0.0000e+00 +/-  9.94e-01  <none>
+     rares_stat_hilow1    0.0000e+00    0.0000e+00 +/-  1.00e+00  <none>
+    rares_stat_hilow10    0.0000e+00    0.0000e+00 +/-  9.95e-01  <none>
+    rares_stat_hilow11    0.0000e+00    0.0000e+00 +/-  1.01e+00  <none>
+    rares_stat_hilow12    0.0000e+00    0.0000e+00 +/-  1.01e+00  <none>
+    rares_stat_hilow13    0.0000e+00    0.0000e+00 +/-  1.01e+00  <none>
+    rares_stat_hilow14    0.0000e+00    0.0000e+00 +/-  1.01e+00  <none>
+    rares_stat_hilow15    0.0000e+00    0.0000e+00 +/-  1.01e+00  <none>
+    rares_stat_hilow16    0.0000e+00    0.0000e+00 +/-  1.01e+00  <none>
+    rares_stat_hilow17    0.0000e+00    0.0000e+00 +/-  1.00e+00  <none>
+    rares_stat_hilow18    0.0000e+00    0.0000e+00 +/-  1.01e+00  <none>
+    rares_stat_hilow19    0.0000e+00    0.0000e+00 +/-  9.95e-01  <none>
+     rares_stat_hilow2    0.0000e+00    0.0000e+00 +/-  1.00e+00  <none>
+    rares_stat_hilow20    0.0000e+00    0.0000e+00 +/-  9.94e-01  <none>
+    rares_stat_hilow21    0.0000e+00    0.0000e+00 +/-  9.94e-01  <none>
+    rares_stat_hilow22    0.0000e+00    0.0000e+00 +/-  1.01e+00  <none>
+    rares_stat_hilow23    0.0000e+00    0.0000e+00 +/-  9.94e-01  <none>
+    rares_stat_hilow24    0.0000e+00    0.0000e+00 +/-  1.01e+00  <none>
+    rares_stat_hilow25    0.0000e+00    0.0000e+00 +/-  1.01e+00  <none>
+    rares_stat_hilow26    0.0000e+00    0.0000e+00 +/-  1.01e+00  <none>
+     rares_stat_hilow3    0.0000e+00    0.0000e+00 +/-  9.95e-01  <none>
+     rares_stat_hilow4    0.0000e+00    0.0000e+00 +/-  1.00e+00  <none>
+     rares_stat_hilow5    0.0000e+00    0.0000e+00 +/-  9.95e-01  <none>
+     rares_stat_hilow6    0.0000e+00    0.0000e+00 +/-  1.01e+00  <none>
+     rares_stat_hilow7    0.0000e+00    0.0000e+00 +/-  1.01e+00  <none>
+     rares_stat_hilow8    0.0000e+00    0.0000e+00 +/-  1.01e+00  <none>
+     rares_stat_hilow9    0.0000e+00    0.0000e+00 +/-  9.95e-01  <none>
+    rares_stat_lowlow1    0.0000e+00    0.0000e+00 +/-  1.00e+00  <none>
+    rares_stat_lowlow2    0.0000e+00    0.0000e+00 +/-  1.00e+00  <none>
+    rares_stat_lowlow3    0.0000e+00    0.0000e+00 +/-  9.95e-01  <none>
+    rares_stat_lowlow4    0.0000e+00    0.0000e+00 +/-  9.95e-01  <none>
+    rares_stat_lowlow5    0.0000e+00    0.0000e+00 +/-  9.95e-01  <none>
+    rares_stat_lowlow6    0.0000e+00    0.0000e+00 +/-  1.00e+00  <none>
+    rares_stat_lowlow7    0.0000e+00    0.0000e+00 +/-  1.00e+00  <none>
+    rares_stat_lowlow8    0.0000e+00    0.0000e+00 +/-  9.94e-01  <none>
+           ttGenerator    0.0000e+00    0.0000e+00 +/-  1.53e-01  <none>
+             ttMEScale    0.0000e+00    0.0000e+00 +/-  6.17e-01  <none>
+           ttttMEScale    0.0000e+00    0.0000e+00 +/-  9.94e-01  <none>
+             tttt_norm    0.0000e+00    0.0000e+00 +/-  9.94e-01  <none>
+       tttt_stat_hihi1    0.0000e+00    0.0000e+00 +/-  9.94e-01  <none>
+      tttt_stat_hihi10    0.0000e+00    0.0000e+00 +/-  9.94e-01  <none>
+      tttt_stat_hihi11    0.0000e+00    0.0000e+00 +/-  9.94e-01  <none>
+      tttt_stat_hihi12    0.0000e+00    0.0000e+00 +/-  9.94e-01  <none>
+      tttt_stat_hihi13    0.0000e+00    0.0000e+00 +/-  9.94e-01  <none>
+      tttt_stat_hihi14    0.0000e+00    0.0000e+00 +/-  9.94e-01  <none>
+      tttt_stat_hihi15    0.0000e+00    0.0000e+00 +/-  9.94e-01  <none>
+      tttt_stat_hihi16    0.0000e+00    0.0000e+00 +/-  9.94e-01  <none>
+      tttt_stat_hihi17    0.0000e+00    0.0000e+00 +/-  9.94e-01  <none>
+      tttt_stat_hihi18    0.0000e+00    0.0000e+00 +/-  9.94e-01  <none>
+      tttt_stat_hihi19    0.0000e+00    0.0000e+00 +/-  9.94e-01  <none>
+       tttt_stat_hihi2    0.0000e+00    0.0000e+00 +/-  9.94e-01  <none>
+      tttt_stat_hihi20    0.0000e+00    0.0000e+00 +/-  9.94e-01  <none>
+      tttt_stat_hihi21    0.0000e+00    0.0000e+00 +/-  9.94e-01  <none>
+      tttt_stat_hihi22    0.0000e+00    0.0000e+00 +/-  9.94e-01  <none>
+      tttt_stat_hihi23    0.0000e+00    0.0000e+00 +/-  9.94e-01  <none>
+      tttt_stat_hihi24    0.0000e+00    0.0000e+00 +/-  9.94e-01  <none>
+      tttt_stat_hihi25    0.0000e+00    0.0000e+00 +/-  9.94e-01  <none>
+      tttt_stat_hihi26    0.0000e+00    0.0000e+00 +/-  9.94e-01  <none>
+      tttt_stat_hihi27    0.0000e+00    0.0000e+00 +/-  9.94e-01  <none>
+      tttt_stat_hihi28    0.0000e+00    0.0000e+00 +/-  9.94e-01  <none>
+      tttt_stat_hihi29    0.0000e+00    0.0000e+00 +/-  9.94e-01  <none>
+       tttt_stat_hihi3    0.0000e+00    0.0000e+00 +/-  9.94e-01  <none>
+      tttt_stat_hihi30    0.0000e+00    0.0000e+00 +/-  9.94e-01  <none>
+      tttt_stat_hihi31    0.0000e+00    0.0000e+00 +/-  9.94e-01  <none>
+      tttt_stat_hihi32    0.0000e+00    0.0000e+00 +/-  9.94e-01  <none>
+       tttt_stat_hihi4    0.0000e+00    0.0000e+00 +/-  9.94e-01  <none>
+       tttt_stat_hihi5    0.0000e+00    0.0000e+00 +/-  9.94e-01  <none>
+       tttt_stat_hihi6    0.0000e+00    0.0000e+00 +/-  9.94e-01  <none>
+       tttt_stat_hihi7    0.0000e+00    0.0000e+00 +/-  9.94e-01  <none>
+       tttt_stat_hihi8    0.0000e+00    0.0000e+00 +/-  9.94e-01  <none>
+       tttt_stat_hihi9    0.0000e+00    0.0000e+00 +/-  9.94e-01  <none>
+      tttt_stat_hilow1    0.0000e+00    0.0000e+00 +/-  9.94e-01  <none>
+     tttt_stat_hilow10    0.0000e+00    0.0000e+00 +/-  9.94e-01  <none>
+     tttt_stat_hilow11    0.0000e+00    0.0000e+00 +/-  9.94e-01  <none>
+     tttt_stat_hilow12    0.0000e+00    0.0000e+00 +/-  9.94e-01  <none>
+     tttt_stat_hilow13    0.0000e+00    0.0000e+00 +/-  9.94e-01  <none>
+     tttt_stat_hilow14    0.0000e+00    0.0000e+00 +/-  9.94e-01  <none>
+     tttt_stat_hilow15    0.0000e+00    0.0000e+00 +/-  9.94e-01  <none>
+     tttt_stat_hilow16    0.0000e+00    0.0000e+00 +/-  9.94e-01  <none>
+     tttt_stat_hilow17    0.0000e+00    0.0000e+00 +/-  9.94e-01  <none>
+     tttt_stat_hilow18    0.0000e+00    0.0000e+00 +/-  9.94e-01  <none>
+     tttt_stat_hilow19    0.0000e+00    0.0000e+00 +/-  9.94e-01  <none>
+      tttt_stat_hilow2    0.0000e+00    0.0000e+00 +/-  9.94e-01  <none>
+     tttt_stat_hilow20    0.0000e+00    0.0000e+00 +/-  9.94e-01  <none>
+     tttt_stat_hilow21    0.0000e+00    0.0000e+00 +/-  9.94e-01  <none>
+     tttt_stat_hilow22    0.0000e+00    0.0000e+00 +/-  9.94e-01  <none>
+     tttt_stat_hilow23    0.0000e+00    0.0000e+00 +/-  9.94e-01  <none>
+     tttt_stat_hilow24    0.0000e+00    0.0000e+00 +/-  9.94e-01  <none>
+     tttt_stat_hilow25    0.0000e+00    0.0000e+00 +/-  9.94e-01  <none>
+     tttt_stat_hilow26    0.0000e+00    0.0000e+00 +/-  9.94e-01  <none>
+      tttt_stat_hilow3    0.0000e+00    0.0000e+00 +/-  9.94e-01  <none>
+      tttt_stat_hilow4    0.0000e+00    0.0000e+00 +/-  9.94e-01  <none>
+      tttt_stat_hilow5    0.0000e+00    0.0000e+00 +/-  9.94e-01  <none>
+      tttt_stat_hilow6    0.0000e+00    0.0000e+00 +/-  9.94e-01  <none>
+      tttt_stat_hilow7    0.0000e+00    0.0000e+00 +/-  9.94e-01  <none>
+      tttt_stat_hilow8    0.0000e+00    0.0000e+00 +/-  9.94e-01  <none>
+      tttt_stat_hilow9    0.0000e+00    0.0000e+00 +/-  9.94e-01  <none>
+     tttt_stat_lowlow1    0.0000e+00    0.0000e+00 +/-  9.94e-01  <none>
+     tttt_stat_lowlow2    0.0000e+00    0.0000e+00 +/-  9.94e-01  <none>
+     tttt_stat_lowlow3    0.0000e+00    0.0000e+00 +/-  9.94e-01  <none>
+     tttt_stat_lowlow4    0.0000e+00    0.0000e+00 +/-  9.94e-01  <none>
+     tttt_stat_lowlow5    0.0000e+00    0.0000e+00 +/-  9.94e-01  <none>
+     tttt_stat_lowlow6    0.0000e+00    0.0000e+00 +/-  9.94e-01  <none>
+     tttt_stat_lowlow7    0.0000e+00    0.0000e+00 +/-  9.94e-01  <none>
+     tttt_stat_lowlow8    0.0000e+00    0.0000e+00 +/-  9.94e-01  <none>
+          ttw_extr_hth    0.0000e+00    0.0000e+00 +/-  9.88e-01  <none>
+          ttw_extr_htl    0.0000e+00    0.0000e+00 +/-  9.94e-01  <none>
+           ttw_extr_ll    0.0000e+00    0.0000e+00 +/-  1.00e+00  <none>
+        ttw_stat_hihi1    0.0000e+00    0.0000e+00 +/-  9.94e-01  <none>
+       ttw_stat_hihi10    0.0000e+00    0.0000e+00 +/-  9.93e-01  <none>
+       ttw_stat_hihi11    0.0000e+00    0.0000e+00 +/-  9.93e-01  <none>
+       ttw_stat_hihi12    0.0000e+00    0.0000e+00 +/-  1.01e+00  <none>
+       ttw_stat_hihi13    0.0000e+00    0.0000e+00 +/-  1.01e+00  <none>
+       ttw_stat_hihi14    0.0000e+00    0.0000e+00 +/-  1.01e+00  <none>
+       ttw_stat_hihi15    0.0000e+00    0.0000e+00 +/-  1.01e+00  <none>
+       ttw_stat_hihi16    0.0000e+00    0.0000e+00 +/-  9.96e-01  <none>
+       ttw_stat_hihi17    0.0000e+00    0.0000e+00 +/-  1.01e+00  <none>
+       ttw_stat_hihi18    0.0000e+00    0.0000e+00 +/-  1.01e+00  <none>
+       ttw_stat_hihi19    0.0000e+00    0.0000e+00 +/-  1.01e+00  <none>
+        ttw_stat_hihi2    0.0000e+00    0.0000e+00 +/-  9.94e-01  <none>
+       ttw_stat_hihi20    0.0000e+00    0.0000e+00 +/-  1.01e+00  <none>
+       ttw_stat_hihi21    0.0000e+00    0.0000e+00 +/-  1.01e+00  <none>
+       ttw_stat_hihi22    0.0000e+00    0.0000e+00 +/-  9.96e-01  <none>
+       ttw_stat_hihi23    0.0000e+00    0.0000e+00 +/-  1.01e+00  <none>
+       ttw_stat_hihi24    0.0000e+00    0.0000e+00 +/-  1.01e+00  <none>
+       ttw_stat_hihi25    0.0000e+00    0.0000e+00 +/-  9.94e-01  <none>
+       ttw_stat_hihi26    0.0000e+00    0.0000e+00 +/-  1.01e+00  <none>
+       ttw_stat_hihi27    0.0000e+00    0.0000e+00 +/-  9.84e-01  <none>
+       ttw_stat_hihi28    0.0000e+00    0.0000e+00 +/-  1.01e+00  <none>
+       ttw_stat_hihi29    0.0000e+00    0.0000e+00 +/-  9.92e-01  <none>
+        ttw_stat_hihi3    0.0000e+00    0.0000e+00 +/-  9.93e-01  <none>
+       ttw_stat_hihi30    0.0000e+00    0.0000e+00 +/-  9.92e-01  <none>
+       ttw_stat_hihi31    0.0000e+00    0.0000e+00 +/-  1.01e+00  <none>
+       ttw_stat_hihi32    0.0000e+00    0.0000e+00 +/-  1.01e+00  <none>
+        ttw_stat_hihi4    0.0000e+00    0.0000e+00 +/-  1.01e+00  <none>
+        ttw_stat_hihi5    0.0000e+00    0.0000e+00 +/-  9.94e-01  <none>
+        ttw_stat_hihi6    0.0000e+00    0.0000e+00 +/-  9.93e-01  <none>
+        ttw_stat_hihi7    0.0000e+00    0.0000e+00 +/-  1.01e+00  <none>
+        ttw_stat_hihi8    0.0000e+00    0.0000e+00 +/-  1.01e+00  <none>
+        ttw_stat_hihi9    0.0000e+00    0.0000e+00 +/-  9.94e-01  <none>
+       ttw_stat_hilow1    0.0000e+00    0.0000e+00 +/-  1.00e+00  <none>
+      ttw_stat_hilow10    0.0000e+00    0.0000e+00 +/-  9.95e-01  <none>
+      ttw_stat_hilow11    0.0000e+00    0.0000e+00 +/-  9.94e-01  <none>
+      ttw_stat_hilow12    0.0000e+00    0.0000e+00 +/-  1.00e+00  <none>
+      ttw_stat_hilow13    0.0000e+00    0.0000e+00 +/-  9.94e-01  <none>
+      ttw_stat_hilow14    0.0000e+00    0.0000e+00 +/-  1.01e+00  <none>
+      ttw_stat_hilow15    0.0000e+00    0.0000e+00 +/-  1.01e+00  <none>
+      ttw_stat_hilow16    0.0000e+00    0.0000e+00 +/-  9.92e-01  <none>
+      ttw_stat_hilow17    0.0000e+00    0.0000e+00 +/-  1.01e+00  <none>
+      ttw_stat_hilow18    0.0000e+00    0.0000e+00 +/-  1.01e+00  <none>
+      ttw_stat_hilow19    0.0000e+00    0.0000e+00 +/-  1.01e+00  <none>
+       ttw_stat_hilow2    0.0000e+00    0.0000e+00 +/-  1.00e+00  <none>
+      ttw_stat_hilow20    0.0000e+00    0.0000e+00 +/-  1.01e+00  <none>
+      ttw_stat_hilow21    0.0000e+00    0.0000e+00 +/-  9.94e-01  <none>
+      ttw_stat_hilow22    0.0000e+00    0.0000e+00 +/-  9.96e-01  <none>
+      ttw_stat_hilow23    0.0000e+00    0.0000e+00 +/-  1.01e+00  <none>
+      ttw_stat_hilow24    0.0000e+00    0.0000e+00 +/-  1.01e+00  <none>
+      ttw_stat_hilow25    0.0000e+00    0.0000e+00 +/-  1.00e+00  <none>
+      ttw_stat_hilow26    0.0000e+00    0.0000e+00 +/-  9.94e-01  <none>
+       ttw_stat_hilow3    0.0000e+00    0.0000e+00 +/-  1.00e+00  <none>
+       ttw_stat_hilow4    0.0000e+00    0.0000e+00 +/-  1.00e+00  <none>
+       ttw_stat_hilow5    0.0000e+00    0.0000e+00 +/-  9.94e-01  <none>
+       ttw_stat_hilow6    0.0000e+00    0.0000e+00 +/-  1.01e+00  <none>
+       ttw_stat_hilow7    0.0000e+00    0.0000e+00 +/-  1.00e+00  <none>
+       ttw_stat_hilow8    0.0000e+00    0.0000e+00 +/-  1.00e+00  <none>
+       ttw_stat_hilow9    0.0000e+00    0.0000e+00 +/-  9.99e-01  <none>
+      ttw_stat_lowlow1    0.0000e+00    0.0000e+00 +/-  1.00e+00  <none>
+      ttw_stat_lowlow2    0.0000e+00    0.0000e+00 +/-  1.00e+00  <none>
+      ttw_stat_lowlow3    0.0000e+00    0.0000e+00 +/-  1.00e+00  <none>
+      ttw_stat_lowlow4    0.0000e+00    0.0000e+00 +/-  1.00e+00  <none>
+      ttw_stat_lowlow5    0.0000e+00    0.0000e+00 +/-  1.01e+00  <none>
+      ttw_stat_lowlow6    0.0000e+00    0.0000e+00 +/-  1.01e+00  <none>
+      ttw_stat_lowlow7    0.0000e+00    0.0000e+00 +/-  1.00e+00  <none>
+      ttw_stat_lowlow8    0.0000e+00    0.0000e+00 +/-  9.94e-01  <none>
+         ttzh_extr_hth    0.0000e+00    0.0000e+00 +/-  9.94e-01  <none>
+         ttzh_extr_htl    0.0000e+00    0.0000e+00 +/-  1.00e+00  <none>
+          ttzh_extr_ll    0.0000e+00    0.0000e+00 +/-  1.00e+00  <none>
+       ttzh_stat_hihi1    0.0000e+00    0.0000e+00 +/-  1.00e+00  <none>
+      ttzh_stat_hihi10    0.0000e+00    0.0000e+00 +/-  9.94e-01  <none>
+      ttzh_stat_hihi11    0.0000e+00    0.0000e+00 +/-  1.00e+00  <none>
+      ttzh_stat_hihi12    0.0000e+00    0.0000e+00 +/-  1.01e+00  <none>
+      ttzh_stat_hihi13    0.0000e+00    0.0000e+00 +/-  9.99e-01  <none>
+      ttzh_stat_hihi14    0.0000e+00    0.0000e+00 +/-  1.01e+00  <none>
+      ttzh_stat_hihi15    0.0000e+00    0.0000e+00 +/-  1.01e+00  <none>
+      ttzh_stat_hihi16    0.0000e+00    0.0000e+00 +/-  1.01e+00  <none>
+      ttzh_stat_hihi17    0.0000e+00    0.0000e+00 +/-  1.00e+00  <none>
+      ttzh_stat_hihi18    0.0000e+00    0.0000e+00 +/-  9.94e-01  <none>
+      ttzh_stat_hihi19    0.0000e+00    0.0000e+00 +/-  9.94e-01  <none>
+       ttzh_stat_hihi2    0.0000e+00    0.0000e+00 +/-  1.00e+00  <none>
+      ttzh_stat_hihi20    0.0000e+00    0.0000e+00 +/-  9.93e-01  <none>
+      ttzh_stat_hihi21    0.0000e+00    0.0000e+00 +/-  1.01e+00  <none>
+      ttzh_stat_hihi22    0.0000e+00    0.0000e+00 +/-  9.91e-01  <none>
+      ttzh_stat_hihi23    0.0000e+00    0.0000e+00 +/-  1.01e+00  <none>
+      ttzh_stat_hihi24    0.0000e+00    0.0000e+00 +/-  9.95e-01  <none>
+      ttzh_stat_hihi25    0.0000e+00    0.0000e+00 +/-  1.01e+00  <none>
+      ttzh_stat_hihi26    0.0000e+00    0.0000e+00 +/-  1.01e+00  <none>
+      ttzh_stat_hihi27    0.0000e+00    0.0000e+00 +/-  1.00e+00  <none>
+      ttzh_stat_hihi28    0.0000e+00    0.0000e+00 +/-  1.01e+00  <none>
+      ttzh_stat_hihi29    0.0000e+00    0.0000e+00 +/-  9.94e-01  <none>
+       ttzh_stat_hihi3    0.0000e+00    0.0000e+00 +/-  9.95e-01  <none>
+      ttzh_stat_hihi30    0.0000e+00    0.0000e+00 +/-  9.94e-01  <none>
+      ttzh_stat_hihi31    0.0000e+00    0.0000e+00 +/-  1.00e+00  <none>
+      ttzh_stat_hihi32    0.0000e+00    0.0000e+00 +/-  1.01e+00  <none>
+       ttzh_stat_hihi4    0.0000e+00    0.0000e+00 +/-  1.01e+00  <none>
+       ttzh_stat_hihi5    0.0000e+00    0.0000e+00 +/-  1.00e+00  <none>
+       ttzh_stat_hihi6    0.0000e+00    0.0000e+00 +/-  1.01e+00  <none>
+       ttzh_stat_hihi7    0.0000e+00    0.0000e+00 +/-  1.00e+00  <none>
+       ttzh_stat_hihi8    0.0000e+00    0.0000e+00 +/-  1.01e+00  <none>
+       ttzh_stat_hihi9    0.0000e+00    0.0000e+00 +/-  1.00e+00  <none>
+      ttzh_stat_hilow1    0.0000e+00    0.0000e+00 +/-  1.00e+00  <none>
+     ttzh_stat_hilow10    0.0000e+00    0.0000e+00 +/-  1.00e+00  <none>
+     ttzh_stat_hilow11    0.0000e+00    0.0000e+00 +/-  1.00e+00  <none>
+     ttzh_stat_hilow12    0.0000e+00    0.0000e+00 +/-  1.00e+00  <none>
+     ttzh_stat_hilow13    0.0000e+00    0.0000e+00 +/-  1.00e+00  <none>
+     ttzh_stat_hilow14    0.0000e+00    0.0000e+00 +/-  9.94e-01  <none>
+     ttzh_stat_hilow15    0.0000e+00    0.0000e+00 +/-  1.00e+00  <none>
+     ttzh_stat_hilow16    0.0000e+00    0.0000e+00 +/-  1.01e+00  <none>
+     ttzh_stat_hilow17    0.0000e+00    0.0000e+00 +/-  1.00e+00  <none>
+     ttzh_stat_hilow18    0.0000e+00    0.0000e+00 +/-  1.01e+00  <none>
+     ttzh_stat_hilow19    0.0000e+00    0.0000e+00 +/-  1.01e+00  <none>
+      ttzh_stat_hilow2    0.0000e+00    0.0000e+00 +/-  1.00e+00  <none>
+     ttzh_stat_hilow20    0.0000e+00    0.0000e+00 +/-  1.00e+00  <none>
+     ttzh_stat_hilow21    0.0000e+00    0.0000e+00 +/-  1.00e+00  <none>
+     ttzh_stat_hilow22    0.0000e+00    0.0000e+00 +/-  9.94e-01  <none>
+     ttzh_stat_hilow23    0.0000e+00    0.0000e+00 +/-  1.00e+00  <none>
+     ttzh_stat_hilow24    0.0000e+00    0.0000e+00 +/-  1.00e+00  <none>
+     ttzh_stat_hilow25    0.0000e+00    0.0000e+00 +/-  1.00e+00  <none>
+     ttzh_stat_hilow26    0.0000e+00    0.0000e+00 +/-  1.00e+00  <none>
+      ttzh_stat_hilow3    0.0000e+00    0.0000e+00 +/-  1.00e+00  <none>
+      ttzh_stat_hilow4    0.0000e+00    0.0000e+00 +/-  1.00e+00  <none>
+      ttzh_stat_hilow5    0.0000e+00    0.0000e+00 +/-  1.00e+00  <none>
+      ttzh_stat_hilow6    0.0000e+00    0.0000e+00 +/-  1.01e+00  <none>
+      ttzh_stat_hilow7    0.0000e+00    0.0000e+00 +/-  9.95e-01  <none>
+      ttzh_stat_hilow8    0.0000e+00    0.0000e+00 +/-  9.95e-01  <none>
+      ttzh_stat_hilow9    0.0000e+00    0.0000e+00 +/-  1.00e+00  <none>
+     ttzh_stat_lowlow1    0.0000e+00    0.0000e+00 +/-  1.00e+00  <none>
+     ttzh_stat_lowlow2    0.0000e+00    0.0000e+00 +/-  1.00e+00  <none>
+     ttzh_stat_lowlow3    0.0000e+00    0.0000e+00 +/-  9.95e-01  <none>
+     ttzh_stat_lowlow4    0.0000e+00    0.0000e+00 +/-  1.00e+00  <none>
+     ttzh_stat_lowlow5    0.0000e+00    0.0000e+00 +/-  1.00e+00  <none>
+     ttzh_stat_lowlow6    0.0000e+00    0.0000e+00 +/-  1.00e+00  <none>
+     ttzh_stat_lowlow7    0.0000e+00    0.0000e+00 +/-  1.00e+00  <none>
+     ttzh_stat_lowlow8    0.0000e+00    0.0000e+00 +/-  9.95e-01  <none>
+         ww_stat_hihi1    0.0000e+00    0.0000e+00 +/-  1.00e+00  <none>
+        ww_stat_hihi10    0.0000e+00    0.0000e+00 +/-  1.00e+00  <none>
+        ww_stat_hihi11    0.0000e+00    0.0000e+00 +/-  9.94e-01  <none>
+        ww_stat_hihi12    0.0000e+00    0.0000e+00 +/-  1.00e+00  <none>
+        ww_stat_hihi13    0.0000e+00    0.0000e+00 +/-  1.00e+00  <none>
+        ww_stat_hihi14    0.0000e+00    0.0000e+00 +/-  1.00e+00  <none>
+        ww_stat_hihi15    0.0000e+00    0.0000e+00 +/-  9.95e-01  <none>
+        ww_stat_hihi16    0.0000e+00    0.0000e+00 +/-  1.00e+00  <none>
+        ww_stat_hihi17    0.0000e+00    0.0000e+00 +/-  9.94e-01  <none>
+        ww_stat_hihi18    0.0000e+00    0.0000e+00 +/-  1.00e+00  <none>
+        ww_stat_hihi19    0.0000e+00    0.0000e+00 +/-  1.00e+00  <none>
+         ww_stat_hihi2    0.0000e+00    0.0000e+00 +/-  1.00e+00  <none>
+        ww_stat_hihi20    0.0000e+00    0.0000e+00 +/-  1.00e+00  <none>
+        ww_stat_hihi21    0.0000e+00    0.0000e+00 +/-  9.94e-01  <none>
+        ww_stat_hihi22    0.0000e+00    0.0000e+00 +/-  1.00e+00  <none>
+        ww_stat_hihi23    0.0000e+00    0.0000e+00 +/-  1.00e+00  <none>
+        ww_stat_hihi24    0.0000e+00    0.0000e+00 +/-  9.94e-01  <none>
+        ww_stat_hihi25    0.0000e+00    0.0000e+00 +/-  9.94e-01  <none>
+        ww_stat_hihi26    0.0000e+00    0.0000e+00 +/-  9.94e-01  <none>
+        ww_stat_hihi27    0.0000e+00    0.0000e+00 +/-  9.94e-01  <none>
+        ww_stat_hihi28    0.0000e+00    0.0000e+00 +/-  9.94e-01  <none>
+        ww_stat_hihi29    0.0000e+00    0.0000e+00 +/-  9.94e-01  <none>
+         ww_stat_hihi3    0.0000e+00    0.0000e+00 +/-  9.94e-01  <none>
+        ww_stat_hihi30    0.0000e+00    0.0000e+00 +/-  9.94e-01  <none>
+        ww_stat_hihi31    0.0000e+00    0.0000e+00 +/-  1.00e+00  <none>
+        ww_stat_hihi32    0.0000e+00    0.0000e+00 +/-  1.00e+00  <none>
+         ww_stat_hihi4    0.0000e+00    0.0000e+00 +/-  1.00e+00  <none>
+         ww_stat_hihi5    0.0000e+00    0.0000e+00 +/-  1.00e+00  <none>
+         ww_stat_hihi6    0.0000e+00    0.0000e+00 +/-  9.94e-01  <none>
+         ww_stat_hihi7    0.0000e+00    0.0000e+00 +/-  1.00e+00  <none>
+         ww_stat_hihi8    0.0000e+00    0.0000e+00 +/-  1.00e+00  <none>
+         ww_stat_hihi9    0.0000e+00    0.0000e+00 +/-  1.00e+00  <none>
+        ww_stat_hilow1    0.0000e+00    0.0000e+00 +/-  9.95e-01  <none>
+       ww_stat_hilow10    0.0000e+00    0.0000e+00 +/-  1.01e+00  <none>
+       ww_stat_hilow11    0.0000e+00    0.0000e+00 +/-  1.01e+00  <none>
+       ww_stat_hilow12    0.0000e+00    0.0000e+00 +/-  1.00e+00  <none>
+       ww_stat_hilow13    0.0000e+00    0.0000e+00 +/-  9.94e-01  <none>
+       ww_stat_hilow14    0.0000e+00    0.0000e+00 +/-  9.94e-01  <none>
+       ww_stat_hilow15    0.0000e+00    0.0000e+00 +/-  9.94e-01  <none>
+       ww_stat_hilow16    0.0000e+00    0.0000e+00 +/-  1.00e+00  <none>
+       ww_stat_hilow17    0.0000e+00    0.0000e+00 +/-  1.00e+00  <none>
+       ww_stat_hilow18    0.0000e+00    0.0000e+00 +/-  9.94e-01  <none>
+       ww_stat_hilow19    0.0000e+00    0.0000e+00 +/-  9.94e-01  <none>
+        ww_stat_hilow2    0.0000e+00    0.0000e+00 +/-  1.00e+00  <none>
+       ww_stat_hilow20    0.0000e+00    0.0000e+00 +/-  9.94e-01  <none>
+       ww_stat_hilow21    0.0000e+00    0.0000e+00 +/-  9.94e-01  <none>
+       ww_stat_hilow22    0.0000e+00    0.0000e+00 +/-  9.94e-01  <none>
+       ww_stat_hilow23    0.0000e+00    0.0000e+00 +/-  1.01e+00  <none>
+       ww_stat_hilow24    0.0000e+00    0.0000e+00 +/-  1.01e+00  <none>
+       ww_stat_hilow25    0.0000e+00    0.0000e+00 +/-  1.00e+00  <none>
+       ww_stat_hilow26    0.0000e+00    0.0000e+00 +/-  1.00e+00  <none>
+        ww_stat_hilow3    0.0000e+00    0.0000e+00 +/-  9.94e-01  <none>
+        ww_stat_hilow4    0.0000e+00    0.0000e+00 +/-  9.95e-01  <none>
+        ww_stat_hilow5    0.0000e+00    0.0000e+00 +/-  1.00e+00  <none>
+        ww_stat_hilow6    0.0000e+00    0.0000e+00 +/-  9.94e-01  <none>
+        ww_stat_hilow7    0.0000e+00    0.0000e+00 +/-  1.01e+00  <none>
+        ww_stat_hilow8    0.0000e+00    0.0000e+00 +/-  1.00e+00  <none>
+        ww_stat_hilow9    0.0000e+00    0.0000e+00 +/-  9.94e-01  <none>
+       ww_stat_lowlow1    0.0000e+00    0.0000e+00 +/-  9.95e-01  <none>
+       ww_stat_lowlow2    0.0000e+00    0.0000e+00 +/-  1.00e+00  <none>
+       ww_stat_lowlow3    0.0000e+00    0.0000e+00 +/-  1.00e+00  <none>
+       ww_stat_lowlow4    0.0000e+00    0.0000e+00 +/-  1.00e+00  <none>
+       ww_stat_lowlow5    0.0000e+00    0.0000e+00 +/-  9.94e-01  <none>
+       ww_stat_lowlow6    0.0000e+00    0.0000e+00 +/-  9.94e-01  <none>
+       ww_stat_lowlow7    0.0000e+00    0.0000e+00 +/-  1.00e+00  <none>
+       ww_stat_lowlow8    0.0000e+00    0.0000e+00 +/-  1.00e+00  <none>
+         wz_stat_hihi1    0.0000e+00    0.0000e+00 +/-  9.94e-01  <none>
+        wz_stat_hihi10    0.0000e+00    0.0000e+00 +/-  9.95e-01  <none>
+        wz_stat_hihi11    0.0000e+00    0.0000e+00 +/-  1.00e+00  <none>
+        wz_stat_hihi12    0.0000e+00    0.0000e+00 +/-  1.00e+00  <none>
+        wz_stat_hihi13    0.0000e+00    0.0000e+00 +/-  9.93e-01  <none>
+        wz_stat_hihi14    0.0000e+00    0.0000e+00 +/-  1.00e+00  <none>
+        wz_stat_hihi15    0.0000e+00    0.0000e+00 +/-  9.95e-01  <none>
+        wz_stat_hihi16    0.0000e+00    0.0000e+00 +/-  9.94e-01  <none>
+        wz_stat_hihi17    0.0000e+00    0.0000e+00 +/-  9.95e-01  <none>
+        wz_stat_hihi18    0.0000e+00    0.0000e+00 +/-  9.94e-01  <none>
+        wz_stat_hihi19    0.0000e+00    0.0000e+00 +/-  9.94e-01  <none>
+         wz_stat_hihi2    0.0000e+00    0.0000e+00 +/-  9.93e-01  <none>
+        wz_stat_hihi20    0.0000e+00    0.0000e+00 +/-  9.94e-01  <none>
+        wz_stat_hihi21    0.0000e+00    0.0000e+00 +/-  9.94e-01  <none>
+        wz_stat_hihi22    0.0000e+00    0.0000e+00 +/-  9.94e-01  <none>
+        wz_stat_hihi23    0.0000e+00    0.0000e+00 +/-  9.94e-01  <none>
+        wz_stat_hihi24    0.0000e+00    0.0000e+00 +/-  9.94e-01  <none>
+        wz_stat_hihi25    0.0000e+00    0.0000e+00 +/-  9.94e-01  <none>
+        wz_stat_hihi26    0.0000e+00    0.0000e+00 +/-  9.95e-01  <none>
+        wz_stat_hihi27    0.0000e+00    0.0000e+00 +/-  9.94e-01  <none>
+        wz_stat_hihi28    0.0000e+00    0.0000e+00 +/-  9.94e-01  <none>
+        wz_stat_hihi29    0.0000e+00    0.0000e+00 +/-  9.94e-01  <none>
+         wz_stat_hihi3    0.0000e+00    0.0000e+00 +/-  1.01e+00  <none>
+        wz_stat_hihi30    0.0000e+00    0.0000e+00 +/-  9.94e-01  <none>
+        wz_stat_hihi31    0.0000e+00    0.0000e+00 +/-  1.01e+00  <none>
+        wz_stat_hihi32    0.0000e+00    0.0000e+00 +/-  1.00e+00  <none>
+         wz_stat_hihi4    0.0000e+00    0.0000e+00 +/-  1.00e+00  <none>
+         wz_stat_hihi5    0.0000e+00    0.0000e+00 +/-  1.01e+00  <none>
+         wz_stat_hihi6    0.0000e+00    0.0000e+00 +/-  1.00e+00  <none>
+         wz_stat_hihi7    0.0000e+00    0.0000e+00 +/-  1.01e+00  <none>
+         wz_stat_hihi8    0.0000e+00    0.0000e+00 +/-  1.01e+00  <none>
+         wz_stat_hihi9    0.0000e+00    0.0000e+00 +/-  1.00e+00  <none>
+        wz_stat_hilow1    0.0000e+00    0.0000e+00 +/-  9.94e-01  <none>
+       wz_stat_hilow10    0.0000e+00    0.0000e+00 +/-  1.00e+00  <none>
+       wz_stat_hilow11    0.0000e+00    0.0000e+00 +/-  9.95e-01  <none>
+       wz_stat_hilow12    0.0000e+00    0.0000e+00 +/-  9.94e-01  <none>
+       wz_stat_hilow13    0.0000e+00    0.0000e+00 +/-  1.01e+00  <none>
+       wz_stat_hilow14    0.0000e+00    0.0000e+00 +/-  9.94e-01  <none>
+       wz_stat_hilow15    0.0000e+00    0.0000e+00 +/-  9.94e-01  <none>
+       wz_stat_hilow16    0.0000e+00    0.0000e+00 +/-  9.94e-01  <none>
+       wz_stat_hilow17    0.0000e+00    0.0000e+00 +/-  9.94e-01  <none>
+       wz_stat_hilow18    0.0000e+00    0.0000e+00 +/-  9.94e-01  <none>
+       wz_stat_hilow19    0.0000e+00    0.0000e+00 +/-  9.94e-01  <none>
+        wz_stat_hilow2    0.0000e+00    0.0000e+00 +/-  1.01e+00  <none>
+       wz_stat_hilow20    0.0000e+00    0.0000e+00 +/-  9.94e-01  <none>
+       wz_stat_hilow21    0.0000e+00    0.0000e+00 +/-  9.94e-01  <none>
+       wz_stat_hilow22    0.0000e+00    0.0000e+00 +/-  9.94e-01  <none>
+       wz_stat_hilow23    0.0000e+00    0.0000e+00 +/-  9.94e-01  <none>
+       wz_stat_hilow24    0.0000e+00    0.0000e+00 +/-  9.94e-01  <none>
+       wz_stat_hilow25    0.0000e+00    0.0000e+00 +/-  1.00e+00  <none>
+       wz_stat_hilow26    0.0000e+00    0.0000e+00 +/-  1.01e+00  <none>
+        wz_stat_hilow3    0.0000e+00    0.0000e+00 +/-  1.01e+00  <none>
+        wz_stat_hilow4    0.0000e+00    0.0000e+00 +/-  1.00e+00  <none>
+        wz_stat_hilow5    0.0000e+00    0.0000e+00 +/-  1.01e+00  <none>
+        wz_stat_hilow6    0.0000e+00    0.0000e+00 +/-  9.94e-01  <none>
+        wz_stat_hilow7    0.0000e+00    0.0000e+00 +/-  9.94e-01  <none>
+        wz_stat_hilow8    0.0000e+00    0.0000e+00 +/-  9.94e-01  <none>
+        wz_stat_hilow9    0.0000e+00    0.0000e+00 +/-  1.00e+00  <none>
+       wz_stat_lowlow1    0.0000e+00    0.0000e+00 +/-  1.01e+00  <none>
+       wz_stat_lowlow2    0.0000e+00    0.0000e+00 +/-  1.01e+00  <none>
+       wz_stat_lowlow3    0.0000e+00    0.0000e+00 +/-  9.95e-01  <none>
+       wz_stat_lowlow4    0.0000e+00    0.0000e+00 +/-  9.94e-01  <none>
+       wz_stat_lowlow5    0.0000e+00    0.0000e+00 +/-  9.94e-01  <none>
+       wz_stat_lowlow6    0.0000e+00    0.0000e+00 +/-  9.94e-01  <none>
+       wz_stat_lowlow7    0.0000e+00    0.0000e+00 +/-  9.94e-01  <none>
+       wz_stat_lowlow8    0.0000e+00    0.0000e+00 +/-  9.94e-01  <none>
+         xg_stat_hihi1    0.0000e+00    0.0000e+00 +/-  1.00e+00  <none>
+        xg_stat_hihi10    0.0000e+00    0.0000e+00 +/-  1.01e+00  <none>
+        xg_stat_hihi11    0.0000e+00    0.0000e+00 +/-  1.00e+00  <none>
+        xg_stat_hihi12    0.0000e+00    0.0000e+00 +/-  1.00e+00  <none>
+        xg_stat_hihi13    0.0000e+00    0.0000e+00 +/-  1.00e+00  <none>
+        xg_stat_hihi14    0.0000e+00    0.0000e+00 +/-  9.94e-01  <none>
+        xg_stat_hihi15    0.0000e+00    0.0000e+00 +/-  1.01e+00  <none>
+        xg_stat_hihi16    0.0000e+00    0.0000e+00 +/-  1.00e+00  <none>
+        xg_stat_hihi17    0.0000e+00    0.0000e+00 +/-  1.01e+00  <none>
+        xg_stat_hihi18    0.0000e+00    0.0000e+00 +/-  1.01e+00  <none>
+        xg_stat_hihi19    0.0000e+00    0.0000e+00 +/-  1.01e+00  <none>
+         xg_stat_hihi2    0.0000e+00    0.0000e+00 +/-  9.80e-01  <none>
+        xg_stat_hihi20    0.0000e+00    0.0000e+00 +/-  1.01e+00  <none>
+        xg_stat_hihi21    0.0000e+00    0.0000e+00 +/-  1.01e+00  <none>
+        xg_stat_hihi22    0.0000e+00    0.0000e+00 +/-  9.94e-01  <none>
+        xg_stat_hihi23    0.0000e+00    0.0000e+00 +/-  1.00e+00  <none>
+        xg_stat_hihi24    0.0000e+00    0.0000e+00 +/-  9.94e-01  <none>
+        xg_stat_hihi25    0.0000e+00    0.0000e+00 +/-  1.01e+00  <none>
+        xg_stat_hihi26    0.0000e+00    0.0000e+00 +/-  1.01e+00  <none>
+        xg_stat_hihi27    0.0000e+00    0.0000e+00 +/-  9.94e-01  <none>
+        xg_stat_hihi28    0.0000e+00    0.0000e+00 +/-  1.01e+00  <none>
+        xg_stat_hihi29    0.0000e+00    0.0000e+00 +/-  9.94e-01  <none>
+         xg_stat_hihi3    0.0000e+00    0.0000e+00 +/-  1.00e+00  <none>
+        xg_stat_hihi30    0.0000e+00    0.0000e+00 +/-  9.94e-01  <none>
+        xg_stat_hihi31    0.0000e+00    0.0000e+00 +/-  1.00e+00  <none>
+        xg_stat_hihi32    0.0000e+00    0.0000e+00 +/-  1.00e+00  <none>
+         xg_stat_hihi4    0.0000e+00    0.0000e+00 +/-  9.53e-01  <none>
+         xg_stat_hihi5    0.0000e+00    0.0000e+00 +/-  9.80e-01  <none>
+         xg_stat_hihi6    0.0000e+00    0.0000e+00 +/-  9.94e-01  <none>
+         xg_stat_hihi7    0.0000e+00    0.0000e+00 +/-  9.94e-01  <none>
+         xg_stat_hihi8    0.0000e+00    0.0000e+00 +/-  9.94e-01  <none>
+         xg_stat_hihi9    0.0000e+00    0.0000e+00 +/-  9.93e-01  <none>
+        xg_stat_hilow1    0.0000e+00    0.0000e+00 +/-  1.00e+00  <none>
+       xg_stat_hilow10    0.0000e+00    0.0000e+00 +/-  9.94e-01  <none>
+       xg_stat_hilow11    0.0000e+00    0.0000e+00 +/-  1.00e+00  <none>
+       xg_stat_hilow12    0.0000e+00    0.0000e+00 +/-  9.94e-01  <none>
+       xg_stat_hilow13    0.0000e+00    0.0000e+00 +/-  1.01e+00  <none>
+       xg_stat_hilow14    0.0000e+00    0.0000e+00 +/-  9.95e-01  <none>
+       xg_stat_hilow15    0.0000e+00    0.0000e+00 +/-  1.01e+00  <none>
+       xg_stat_hilow16    0.0000e+00    0.0000e+00 +/-  1.01e+00  <none>
+       xg_stat_hilow17    0.0000e+00    0.0000e+00 +/-  1.00e+00  <none>
+       xg_stat_hilow18    0.0000e+00    0.0000e+00 +/-  9.93e-01  <none>
+       xg_stat_hilow19    0.0000e+00    0.0000e+00 +/-  9.95e-01  <none>
+        xg_stat_hilow2    0.0000e+00    0.0000e+00 +/-  1.01e+00  <none>
+       xg_stat_hilow20    0.0000e+00    0.0000e+00 +/-  9.93e-01  <none>
+       xg_stat_hilow21    0.0000e+00    0.0000e+00 +/-  9.94e-01  <none>
+       xg_stat_hilow22    0.0000e+00    0.0000e+00 +/-  9.94e-01  <none>
+       xg_stat_hilow23    0.0000e+00    0.0000e+00 +/-  1.01e+00  <none>
+       xg_stat_hilow24    0.0000e+00    0.0000e+00 +/-  1.00e+00  <none>
+       xg_stat_hilow25    0.0000e+00    0.0000e+00 +/-  9.44e-01  <none>
+       xg_stat_hilow26    0.0000e+00    0.0000e+00 +/-  1.00e+00  <none>
+        xg_stat_hilow3    0.0000e+00    0.0000e+00 +/-  1.05e+00  <none>
+        xg_stat_hilow4    0.0000e+00    0.0000e+00 +/-  1.00e+00  <none>
+        xg_stat_hilow5    0.0000e+00    0.0000e+00 +/-  1.01e+00  <none>
+        xg_stat_hilow6    0.0000e+00    0.0000e+00 +/-  9.92e-01  <none>
+        xg_stat_hilow7    0.0000e+00    0.0000e+00 +/-  9.98e-01  <none>
+        xg_stat_hilow8    0.0000e+00    0.0000e+00 +/-  1.00e+00  <none>
+        xg_stat_hilow9    0.0000e+00    0.0000e+00 +/-  1.00e+00  <none>
+       xg_stat_lowlow1    0.0000e+00    0.0000e+00 +/-  1.00e+00  <none>
+       xg_stat_lowlow2    0.0000e+00    0.0000e+00 +/-  9.95e-01  <none>
+       xg_stat_lowlow3    0.0000e+00    0.0000e+00 +/-  1.00e+00  <none>
+       xg_stat_lowlow4    0.0000e+00    0.0000e+00 +/-  1.00e+00  <none>
+       xg_stat_lowlow5    0.0000e+00    0.0000e+00 +/-  1.00e+00  <none>
+       xg_stat_lowlow6    0.0000e+00    0.0000e+00 +/-  9.95e-01  <none>
+       xg_stat_lowlow7    0.0000e+00    0.0000e+00 +/-  9.94e-01  <none>
+       xg_stat_lowlow8    0.0000e+00    0.0000e+00 +/-  9.94e-01  <none>
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.230
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:22, CP time 22.180
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:24, CP time 24.810
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:20, CP time 20.990
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.150
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:21, CP time 21.210
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:18, CP time 18.210
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.270
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.200
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.750
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:16, CP time 16.680
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:16, CP time 16.770
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.150
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.110
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:22, CP time 22.330
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:20, CP time 20.550
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:23, CP time 23.240
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:22, CP time 22.460
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:22, CP time 22.270
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:21, CP time 21.240
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:21, CP time 21.690
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:20, CP time 20.640
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.660
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:16, CP time 16.750
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.070
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.000
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:16, CP time 16.320
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.050
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:14, CP time 14.990
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.640
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.740
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.070
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.060
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:14, CP time 14.970
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.040
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:14, CP time 14.970
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:14, CP time 14.980
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:14, CP time 14.990
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:14, CP time 14.980
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:14, CP time 14.970
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.100
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:14, CP time 15.000
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.050
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.310
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:14, CP time 14.990
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.010
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:16, CP time 16.530
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.070
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:14, CP time 14.990
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:14, CP time 14.970
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:14, CP time 15.010
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.060
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.050
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:16, CP time 16.280
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.040
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.260
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:16, CP time 16.760
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:16, CP time 16.240
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:16, CP time 16.270
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.010
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:16, CP time 16.250
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:16, CP time 16.280
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.060
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.030
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:16, CP time 16.370
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.700
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.690
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:16, CP time 16.450
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:16, CP time 16.310
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.160
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.780
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.160
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:16, CP time 16.360
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.160
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:16, CP time 16.280
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.610
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:16, CP time 16.310
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.000
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.040
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:16, CP time 16.550
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:16, CP time 16.330
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:16, CP time 16.380
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:16, CP time 16.590
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.750
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:16, CP time 16.870
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.120
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:16, CP time 16.660
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.040
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.100
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:17, CP time 17.210
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.050
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.100
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.180
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.150
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.250
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.200
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.170
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:14, CP time 14.990
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.120
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.220
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.170
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.110
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.170
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.170
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.110
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.300
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.080
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.260
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.100
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.140
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.270
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.230
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.130
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.070
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.100
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.220
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.230
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.270
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.180
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.210
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.210
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.150
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.090
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.130
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.170
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.130
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.160
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.090
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.100
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.150
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.100
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.180
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.190
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.300
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.050
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.050
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.170
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.260
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.130
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.150
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.120
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.220
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.110
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.210
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.200
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.270
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.100
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.180
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.150
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.200
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.090
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.190
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.130
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.050
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.270
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.230
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.210
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:19, CP time 19.750
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.040
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.150
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:18, CP time 18.080
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.770
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.140
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.960
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:14, CP time 14.970
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.140
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.140
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.120
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.170
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.150
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.140
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.200
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.140
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.130
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.100
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.150
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.210
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.150
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.100
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.110
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.130
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.080
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.210
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.160
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.200
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.190
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.200
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.000
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.110
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.020
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.080
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.210
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.240
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.050
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.030
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.010
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.140
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.190
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.130
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.180
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.270
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.170
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.160
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.150
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.170
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.130
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.150
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.120
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.120
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.080
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.130
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.160
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.190
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.130
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.120
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.030
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.090
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.040
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.230
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.130
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.140
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.190
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.030
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.030
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.200
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.200
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.130
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.120
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.130
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.200
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.300
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:20, CP time 20.300
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:27, CP time 27.200
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.290
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.140
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.250
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.240
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.250
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.160
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.160
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.170
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.170
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.150
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.210
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.270
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.200
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.170
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.170
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.160
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.180
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.190
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.180
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.250
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.210
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.190
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.160
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.230
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.220
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.240
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.200
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.250
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.260
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.260
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.170
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.340
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.280
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.250
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.230
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.240
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.240
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.260
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.280
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.330
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.170
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.300
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.280
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.260
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.230
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.180
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.160
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.180
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.180
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.180
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.280
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.260
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.180
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.170
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.240
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.210
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.160
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.170
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.230
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.240
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.150
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.170
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.220
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.240
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.130
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.140
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.120
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.130
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:14, CP time 15.000
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.120
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.030
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.160
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.030
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.060
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.050
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.040
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.030
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 14.990
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:14, CP time 14.990
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.080
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.120
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.120
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.180
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.070
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.030
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.030
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.030
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.030
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.050
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.040
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.070
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.050
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.030
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.010
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.090
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.080
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.030
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.080
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.080
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.040
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.070
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.000
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.130
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.190
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.080
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.040
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.030
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.030
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.020
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.030
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.020
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.030
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:14, CP time 14.980
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.050
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.180
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.020
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.260
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.200
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.080
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.030
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.030
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.030
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.130
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.090
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.260
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.070
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.280
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.090
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.050
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.070
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.050
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:14, CP time 14.990
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.100
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:16, CP time 16.770
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.010
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.050
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.210
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.020
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.170
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.090
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.200
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.310
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.150
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.060
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.170
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.050
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.010
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.030
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.210
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.180
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.140
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.200
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.050
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.150
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.030
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.060
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:15, CP time 15.030
+
+Running Minos for POI 

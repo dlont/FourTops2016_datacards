@@ -1,0 +1,222 @@
+
+  RooFitResult: minimized FCN value: -0.00921715, estimated distance to minimum: 1.20165e-10
+                covariance matrix quality: Full, accurate covariance matrix
+                Status : MINIMIZE=0 HESSE=0 
+
+    Constant Parameter    Value     
+  --------------------  ------------
+            EW_norm_In    0.0000e+00
+                JER_In    0.0000e+00
+                JES_In    0.0000e+00
+                 PU_In    0.0000e+00
+         ST_tW_norm_In    0.0000e+00
+             ScaleH_In    0.0000e+00
+        TTJets_norm_In    0.0000e+00
+  btagWeightCSVCFErr1_In    0.0000e+00
+  btagWeightCSVCFErr2_In    0.0000e+00
+  btagWeightCSVHFStats1_In    0.0000e+00
+  btagWeightCSVHFStats2_In    0.0000e+00
+    btagWeightCSVHF_In    0.0000e+00
+  btagWeightCSVLFStats1_In    0.0000e+00
+  btagWeightCSVLFStats2_In    0.0000e+00
+    btagWeightCSVLF_In    0.0000e+00
+          heavyFlav_In    0.0000e+00
+           leptonSF_In    0.0000e+00
+               lumi_In    0.0000e+00
+             lumiscale    9.7300e-01
+        ttGenerator_In    0.0000e+00
+          ttMEScale_In    0.0000e+00
+        ttttMEScale_In    0.0000e+00
+          tttt_norm_In    0.0000e+00
+
+    Floating Parameter  InitialValue    FinalValue +/-  Error     GblCorr.
+  --------------------  ------------  --------------------------  --------
+               EW_norm    0.0000e+00   -3.6372e-08 +/-  9.94e-01  <none>
+                   JER    0.0000e+00   -3.8349e-07 +/-  9.92e-01  <none>
+                   JES    0.0000e+00    1.5324e-06 +/-  9.33e-01  <none>
+                    PU    0.0000e+00    7.8188e-07 +/-  9.90e-01  <none>
+            ST_tW_norm    0.0000e+00    6.3604e-08 +/-  9.94e-01  <none>
+                ScaleH    0.0000e+00    1.3739e-06 +/-  4.03e-01  <none>
+           TTJets_norm    0.0000e+00   -5.8368e-06 +/-  9.73e-01  <none>
+   btagWeightCSVCFErr1    0.0000e+00    1.4441e-06 +/-  9.67e-01  <none>
+   btagWeightCSVCFErr2    0.0000e+00   -2.0305e-06 +/-  9.94e-01  <none>
+       btagWeightCSVHF    0.0000e+00    1.3855e-06 +/-  9.47e-01  <none>
+  btagWeightCSVHFStats1    0.0000e+00    2.7532e-06 +/-  9.69e-01  <none>
+  btagWeightCSVHFStats2    0.0000e+00   -2.4066e-06 +/-  9.82e-01  <none>
+       btagWeightCSVLF    0.0000e+00   -1.0063e-06 +/-  9.75e-01  <none>
+  btagWeightCSVLFStats1    0.0000e+00    1.7195e-06 +/-  9.77e-01  <none>
+  btagWeightCSVLFStats2    0.0000e+00   -1.3961e-06 +/-  9.92e-01  <none>
+             heavyFlav    0.0000e+00   -4.4869e-06 +/-  9.94e-01  <none>
+              leptonSF    0.0000e+00   -6.2469e-06 +/-  9.75e-01  <none>
+                  lumi    0.0000e+00   -3.4166e-06 +/-  9.82e-01  <none>
+                     r    1.0000e+00    9.0599e-07 +/-  1.95e+01  <none>
+           ttGenerator    0.0000e+00   -4.2517e-06 +/-  7.37e-01  <none>
+             ttMEScale    0.0000e+00    6.8851e-06 +/-  5.98e-01  <none>
+           ttttMEScale    0.0000e+00    2.8452e-07 +/-  9.95e-01  <none>
+             tttt_norm    0.0000e+00    9.0721e-08 +/-  9.95e-01  <none>
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:00, CP time 0.030
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:00, CP time 0.080
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:00, CP time 0.090
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:00, CP time 0.080
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:00, CP time 0.040
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:00, CP time 0.120
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:00, CP time 0.070
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:00, CP time 0.090
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:00, CP time 0.080
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:00, CP time 0.090
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:00, CP time 0.100
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:00, CP time 0.090
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:00, CP time 0.140
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:00, CP time 0.100
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:00, CP time 0.090
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:00, CP time 0.220
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:00, CP time 0.060
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:00, CP time 0.060
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:00, CP time 0.120
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:00, CP time 0.260
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:00, CP time 0.040
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:00, CP time 0.040
+
+Running Minos for POI 
+Run Minos in  Real time 0:00:00, CP time 0.110
+
+
+  RooFitResult: minimized FCN value: -0.00921715, estimated distance to minimum: 1.20165e-10
+                covariance matrix quality: Full, accurate covariance matrix
+                Status : MINIMIZE=0 HESSE=0 
+
+    Constant Parameter    Value     
+  --------------------  ------------
+            EW_norm_In    0.0000e+00
+                JER_In    0.0000e+00
+                JES_In    0.0000e+00
+                 PU_In    0.0000e+00
+         ST_tW_norm_In    0.0000e+00
+             ScaleH_In    0.0000e+00
+        TTJets_norm_In    0.0000e+00
+  btagWeightCSVCFErr1_In    0.0000e+00
+  btagWeightCSVCFErr2_In    0.0000e+00
+  btagWeightCSVHFStats1_In    0.0000e+00
+  btagWeightCSVHFStats2_In    0.0000e+00
+    btagWeightCSVHF_In    0.0000e+00
+  btagWeightCSVLFStats1_In    0.0000e+00
+  btagWeightCSVLFStats2_In    0.0000e+00
+    btagWeightCSVLF_In    0.0000e+00
+          heavyFlav_In    0.0000e+00
+           leptonSF_In    0.0000e+00
+               lumi_In    0.0000e+00
+             lumiscale    9.7300e-01
+        ttGenerator_In    0.0000e+00
+          ttMEScale_In    0.0000e+00
+        ttttMEScale_In    0.0000e+00
+          tttt_norm_In    0.0000e+00
+
+    Floating Parameter  InitialValue    FinalValue (+HiError,-LoError)    GblCorr.
+  --------------------  ------------  ----------------------------------  --------
+               EW_norm    0.0000e+00   -3.6372e-08 (+9.94e-01,-9.94e-01)  <none>
+                   JER    0.0000e+00   -3.8349e-07 (+9.23e-01,-9.22e-01)  <none>
+                   JES    0.0000e+00    1.5324e-06 (+8.85e-01,-8.08e-01)  <none>
+                    PU    0.0000e+00    7.8188e-07 (+9.23e-01,-9.19e-01)  <none>
+            ST_tW_norm    0.0000e+00    6.3604e-08 (+9.94e-01,-9.94e-01)  <none>
+                ScaleH    0.0000e+00    1.3739e-06 (+3.35e-01,-4.69e-01)  <none>
+           TTJets_norm    0.0000e+00   -5.8368e-06 (+9.80e-01,-9.59e-01)  <none>
+   btagWeightCSVCFErr1    0.0000e+00    1.4441e-06 (+8.65e-01,-9.52e-01)  <none>
+   btagWeightCSVCFErr2    0.0000e+00   -2.0305e-06 (+9.24e-01,-9.24e-01)  <none>
+       btagWeightCSVHF    0.0000e+00    1.3855e-06 (+7.70e-01,-9.17e-01)  <none>
+  btagWeightCSVHFStats1    0.0000e+00    2.7532e-06 (+8.25e-01,-9.44e-01)  <none>
+  btagWeightCSVHFStats2    0.0000e+00   -2.4066e-06 (+9.39e-01,-8.68e-01)  <none>
+       btagWeightCSVLF    0.0000e+00   -1.0063e-06 (+9.42e-01,-8.55e-01)  <none>
+  btagWeightCSVLFStats1    0.0000e+00    1.7195e-06 (+8.63e-01,-9.55e-01)  <none>
+  btagWeightCSVLFStats2    0.0000e+00   -1.3961e-06 (+9.13e-01,-9.31e-01)  <none>
+             heavyFlav    0.0000e+00   -4.4869e-06 (+6.90e-01,-6.90e-01)  <none>
+              leptonSF    0.0000e+00   -6.2469e-06 (+9.80e-01,-9.64e-01)  <none>
+                  lumi    0.0000e+00   -3.4166e-06 (+9.85e-01,-9.76e-01)  <none>
+                     r    1.0000e+00    9.0599e-07 (+1.14e+01,-7.78e-09)  <none>
+           ttGenerator    0.0000e+00   -4.2517e-06 (+8.00e-01,-6.87e-01)  <none>
+             ttMEScale    0.0000e+00    6.8851e-06 (+8.25e-01,-3.88e-01)  <none>
+           ttttMEScale    0.0000e+00    2.8452e-07 (+9.94e-01,-9.94e-01)  <none>
+             tttt_norm    0.0000e+00    9.0721e-08 (+9.94e-01,-9.94e-01)  <none>
+
+index 0, Name ch1_ttttelel4nJets/EW, val 0.616493
+index 1, Name ch1_ttttelel4nJets/ST_tW, val 2.15597
+index 2, Name ch1_ttttelel6nJets/EW, val 0.131939
+index 3, Name ch1_ttttelel6nJets/ST_tW, val 0.81226
+index 4, Name ch1_ttttelel8nJets/EW, val 0.212309
+index 5, Name ch1_ttttelel8nJets/ST_tW, val 0.0654829
+index 6, Name ch2_ttttmuel4nJets/EW, val 0.186329
+index 7, Name ch2_ttttmuel4nJets/ST_tW, val 5.49151
+index 8, Name ch2_ttttmuel6nJets/EW, val 0.0734615
+index 9, Name ch2_ttttmuel6nJets/ST_tW, val 1.43936
+index 10, Name ch2_ttttmuel8nJets/ST_tW, val 0.206373
+index 11, Name ch3_ttttmumu4nJets/EW, val 1.68494
+index 12, Name ch3_ttttmumu4nJets/ST_tW, val 3.62948
+index 13, Name ch3_ttttmumu6nJets/EW, val 0.250158
+index 14, Name ch3_ttttmumu6nJets/ST_tW, val 0.436098
+index 15, Name ch3_ttttmumu8nJets/EW, val 0.0854294
+index 16, Name ch1_ttttelel4nJets/NP_overlay_ttttNLO, val 1.06778e-10
+index 17, Name ch1_ttttelel4nJets/ttbarTTX, val 35.7769
+index 18, Name ch1_ttttelel6nJets/NP_overlay_ttttNLO, val 4.46801e-10
+index 19, Name ch1_ttttelel6nJets/ttbarTTX, val 16.5145
+index 20, Name ch1_ttttelel8nJets/NP_overlay_ttttNLO, val 3.72587e-10
+index 21, Name ch1_ttttelel8nJets/ttbarTTX, val 2.18098
+index 22, Name ch2_ttttmuel4nJets/NP_overlay_ttttNLO, val 3.36237e-10
+index 23, Name ch2_ttttmuel4nJets/ttbarTTX, val 110.397
+index 24, Name ch2_ttttmuel6nJets/NP_overlay_ttttNLO, val 1.36994e-09
+index 25, Name ch2_ttttmuel6nJets/ttbarTTX, val 49.6068
+index 26, Name ch2_ttttmuel8nJets/NP_overlay_ttttNLO, val 1.07762e-09
+index 27, Name ch2_ttttmuel8nJets/ttbarTTX, val 6.38969
+index 28, Name ch3_ttttmumu4nJets/NP_overlay_ttttNLO, val 1.51458e-10
+index 29, Name ch3_ttttmumu4nJets/ttbarTTX, val 52.631
+index 30, Name ch3_ttttmumu6nJets/NP_overlay_ttttNLO, val 6.37638e-10
+index 31, Name ch3_ttttmumu6nJets/ttbarTTX, val 24.1152
+index 32, Name ch3_ttttmumu8nJets/NP_overlay_ttttNLO, val 5.72511e-10
+index 33, Name ch3_ttttmumu8nJets/ttbarTTX, val 3.2145
+
+ --- MaxLikelihoodFit ---
+Best fit r: 9.05994e-07  -9.05994e-07/+11.3703  (68% CL)
+nll S+B -> 7.94103e-11  nll B -> 0
+Done in 0.08 min (cpu), 0.08 min (real)
